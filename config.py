@@ -5,12 +5,15 @@ from dataclasses import dataclass
 """Config saves the enviroment configuration of the signasl
 
 Returns:
-    [type] -- [description]
+    Config -- Config DataClass
 """
+
+
 @dataclass
 class Config:
     postgres_host: str = ""
     postgres_password: str = ""
+    jwt_secret: bytes = ""
 
 
 def load_config() -> Config:
@@ -19,5 +22,6 @@ def load_config() -> Config:
 
     host = env.str("POSTGRES_HOST")
     password = env.str("POSTGRES_PASSWORD")
+    secret = env.str("JWT_SECRET")
 
-    return Config(host, password)
+    return Config(host, password, secret)
