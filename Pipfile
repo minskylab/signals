@@ -21,6 +21,9 @@ nltk = "*"
 pyjwt = "*"
 flask = "*"
 graphene = "*"
+flask-graphql = "*"
+sqlalchemy = "*"
+nest-asyncio = "*"
 
 [requires]
 python_version = "3.8"

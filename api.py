@@ -1,9 +1,18 @@
-import query as q
-import graphene as gn
+from flask import Flask
+import flask_graphql
+import flask
+import schema
 
-# from flask import Flask
-# app = Flask("Signals")
-# def
+app = Flask("Signals")
 
-schema = gn.Schema(query=q.Query)
-print(schema.execute("{tweets {id}}"))
+app.add_url_rule(
+    "/graphql",
+    view_func=flask_graphql.GraphQLView.as_view(
+        'graphql',
+        schema=schema.schema,
+        graphiql=True))
+
+
+@app.route('/', methods=["GET", "POST"])
+def index():
+    return "I'm alive"
