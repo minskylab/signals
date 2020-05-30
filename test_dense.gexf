@@ -1,0 +1,2180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2020-05-29">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="andresravarocci" label="andresravarocci" />
+      <node id="e_pigrafo" label="e_pigrafo" />
+      <node id="ryselconsac" label="ryselconsac" />
+      <node id="elagente008" label="elagente008" />
+      <node id="khen_francko" label="khen_francko" />
+      <node id="l_valle" label="l_valle" />
+      <node id="luisvillanuevao" label="luisvillanuevao" />
+      <node id="jonathanpersa" label="jonathanpersa" />
+      <node id="atvpe" label="atvpe" />
+      <node id="percyvega12" label="percyvega12" />
+      <node id="varevalo1977" label="varevalo1977" />
+      <node id="carlosthompson6" label="carlosthompson6" />
+      <node id="thiagoluka2" label="thiagoluka2" />
+      <node id="gacelsayet" label="gacelsayet" />
+      <node id="fio22ac" label="fio22ac" />
+      <node id="PBODigital" label="PBODigital" />
+      <node id="mabel_huertas" label="mabel_huertas" />
+      <node id="noticias_tvperu" label="noticias_tvperu" />
+      <node id="Politica_ECpe" label="Politica_ECpe" />
+      <node id="DrPalaciosCeli" label="DrPalaciosCeli" />
+      <node id="alberto02856917" label="alberto02856917" />
+      <node id="snmpeperu" label="snmpeperu" />
+      <node id="haroldboooor" label="haroldboooor" />
+      <node id="rubbentc" label="rubbentc" />
+      <node id="erickmoraleslii" label="erickmoraleslii" />
+      <node id="jorgelu2792" label="jorgelu2792" />
+      <node id="waykaperu" label="waykaperu" />
+      <node id="consultor46" label="consultor46" />
+      <node id="bullonliz" label="bullonliz" />
+      <node id="sucesosperu" label="sucesosperu" />
+      <node id="ToniAlvaL" label="ToniAlvaL" />
+      <node id="lechti_cowboy" label="lechti_cowboy" />
+      <node id="psprusinski" label="psprusinski" />
+      <node id="pacheco7020" label="pacheco7020" />
+      <node id="titoalvites" label="titoalvites" />
+      <node id="ken_rhyne" label="ken_rhyne" />
+      <node id="hijadelcallao" label="hijadelcallao" />
+      <node id="fiorelasoria4" label="fiorelasoria4" />
+      <node id="sigridbazan" label="sigridbazan" />
+      <node id="Defensoria_Peru" label="Defensoria_Peru" />
+      <node id="EsSaludPeru" label="EsSaludPeru" />
+      <node id="felipeestevesvg" label="felipeestevesvg" />
+      <node id="LuzCayguaray" label="LuzCayguaray" />
+      <node id="pacobazan_" label="pacobazan_" />
+      <node id="cfc3c46a05c74cd" label="cfc3c46a05c74cd" />
+      <node id="roxcanedo" label="roxcanedo" />
+      <node id="defensoria_peru" label="defensoria_peru" />
+      <node id="ernalvarez1702" label="ernalvarez1702" />
+      <node id="edu2109" label="edu2109" />
+      <node id="fidjie55" label="fidjie55" />
+      <node id="melissadeplumb" label="melissadeplumb" />
+      <node id="GloriaMonteneg" label="GloriaMonteneg" />
+      <node id="takahashi020565" label="takahashi020565" />
+      <node id="franklin_reyna" label="franklin_reyna" />
+      <node id="frankvidales1" label="frankvidales1" />
+      <node id="maritzasen" label="maritzasen" />
+      <node id="valiant1964" label="valiant1964" />
+      <node id="ftolcor" label="ftolcor" />
+      <node id="gabito" label="gabito" />
+      <node id="juan_silupu" label="juan_silupu" />
+      <node id="MEF_Peru" label="MEF_Peru" />
+      <node id="CharitoABC" label="CharitoABC" />
+      <node id="jfespinozar" label="jfespinozar" />
+      <node id="Anchebiondi" label="Anchebiondi" />
+      <node id="elintimorric31" label="elintimorric31" />
+      <node id="presidenciaperu" label="presidenciaperu" />
+      <node id="dio90859092" label="dio90859092" />
+      <node id="Shareaholic" label="Shareaholic" />
+      <node id="carlospalacio80" label="carlospalacio80" />
+      <node id="ensustrece" label="ensustrece" />
+      <node id="3001rafa" label="3001rafa" />
+      <node id="netoros" label="netoros" />
+      <node id="ivnvc" label="ivnvc" />
+      <node id="guerrybi" label="guerrybi" />
+      <node id="acosta_nizama" label="acosta_nizama" />
+      <node id="realyeyoza" label="realyeyoza" />
+      <node id="fhuayanar" label="fhuayanar" />
+      <node id="4e416c490afe4af" label="4e416c490afe4af" />
+      <node id="aaronrios90" label="aaronrios90" />
+      <node id="MDanielCarbajal" label="MDanielCarbajal" />
+      <node id="maurizioriba" label="maurizioriba" />
+      <node id="luiscarrillo66" label="luiscarrillo66" />
+      <node id="studiokn" label="studiokn" />
+      <node id="davidalonso2010" label="davidalonso2010" />
+      <node id="sabinrios" label="sabinrios" />
+      <node id="PatyDonayre" label="PatyDonayre" />
+      <node id="reiiinamusic" label="reiiinamusic" />
+      <node id="peruecpe" label="peruecpe" />
+      <node id="kitylw" label="kitylw" />
+      <node id="betsypamela5" label="betsypamela5" />
+      <node id="KikeBravoPrado" label="KikeBravoPrado" />
+      <node id="richitar007" label="richitar007" />
+      <node id="tavorjj" label="tavorjj" />
+      <node id="yrmabs" label="yrmabs" />
+      <node id="cumandarobin" label="cumandarobin" />
+      <node id="hermmperu" label="hermmperu" />
+      <node id="stapiab" label="stapiab" />
+      <node id="tromepe" label="tromepe" />
+      <node id="ricardogastaet1" label="ricardogastaet1" />
+      <node id="oscarlra" label="oscarlra" />
+      <node id="vanegalloso" label="vanegalloso" />
+      <node id="willyzegarras" label="willyzegarras" />
+      <node id="frama54" label="frama54" />
+      <node id="raularroyodc" label="raularroyodc" />
+      <node id="pcmperu" label="pcmperu" />
+      <node id="beatrizbea2005" label="beatrizbea2005" />
+      <node id="PanoramaPTV" label="PanoramaPTV" />
+      <node id="radio_santarosa" label="radio_santarosa" />
+      <node id="France24_es" label="France24_es" />
+      <node id="Ojo_Publico" label="Ojo_Publico" />
+      <node id="keikonova2016" label="keikonova2016" />
+      <node id="josejlk" label="josejlk" />
+      <node id="lugar20092" label="lugar20092" />
+      <node id="neygaya" label="neygaya" />
+      <node id="kluna1984" label="kluna1984" />
+      <node id="minsa" label="minsa" />
+      <node id="farfanglenn" label="farfanglenn" />
+      <node id="walterr71961789" label="walterr71961789" />
+      <node id="dirgis32" label="dirgis32" />
+      <node id="maycolfuentesl1" label="maycolfuentesl1" />
+      <node id="elnumerounog" label="elnumerounog" />
+      <node id="ItsLlini" label="ItsLlini" />
+      <node id="yongmarilu" label="yongmarilu" />
+      <node id="williammenech2" label="williammenech2" />
+      <node id="geovanniacate" label="geovanniacate" />
+      <node id="miri_in_the_sky" label="miri_in_the_sky" />
+      <node id="tonyventur" label="tonyventur" />
+      <node id="totoarrascue" label="totoarrascue" />
+      <node id="alejandroiiiiz" label="alejandroiiiiz" />
+      <node id="veronikconk20" label="veronikconk20" />
+      <node id="eerafaelp" label="eerafaelp" />
+      <node id="grettiux" label="grettiux" />
+      <node id="canalN_" label="canalN_" />
+      <node id="lahoraeslahora" label="lahoraeslahora" />
+      <node id="realDonaldTrump" label="realDonaldTrump" />
+      <node id="emrapgo" label="emrapgo" />
+      <node id="javierg19138876" label="javierg19138876" />
+      <node id="SolCn" label="SolCn" />
+      <node id="lacontamanina" label="lacontamanina" />
+      <node id="sebastlf" label="sebastlf" />
+      <node id="1felipecastillo" label="1felipecastillo" />
+      <node id="SuSaludPeru" label="SuSaludPeru" />
+      <node id="lisiepacha" label="lisiepacha" />
+      <node id="ingridg2405" label="ingridg2405" />
+      <node id="teozka" label="teozka" />
+      <node id="AFPespanol" label="AFPespanol" />
+      <node id="cezarvonfotos" label="cezarvonfotos" />
+      <node id="anfema02" label="anfema02" />
+      <node id="garciaberthita" label="garciaberthita" />
+      <node id="sergiosanabria4" label="sergiosanabria4" />
+      <node id="bobbio_hector" label="bobbio_hector" />
+      <node id="brianjhon2" label="brianjhon2" />
+      <node id="luisalb33751060" label="luisalb33751060" />
+      <node id="ariasdearabia" label="ariasdearabia" />
+      <node id="halcalav" label="halcalav" />
+      <node id="FiscaliaPeru" label="FiscaliaPeru" />
+      <node id="duchrafols" label="duchrafols" />
+      <node id="ocram" label="ocram" />
+      <node id="TubinoCarlos" label="TubinoCarlos" />
+      <node id="jptabja" label="jptabja" />
+      <node id="maxchavezm" label="maxchavezm" />
+      <node id="perlagrandez" label="perlagrandez" />
+      <node id="alvarosarco" label="alvarosarco" />
+      <node id="teec43" label="teec43" />
+      <node id="marce_yalta" label="marce_yalta" />
+      <node id="marygut33145724" label="marygut33145724" />
+      <node id="natalypresentac" label="natalypresentac" />
+      <node id="fedeminsap2" label="fedeminsap2" />
+      <node id="diariocorreo" label="diariocorreo" />
+      <node id="orihuelatam" label="orihuelatam" />
+      <node id="ecafalen" label="ecafalen" />
+      <node id="vmuhligbrennta1" label="vmuhligbrennta1" />
+      <node id="sawasqa" label="sawasqa" />
+      <node id="blankpage1508" label="blankpage1508" />
+      <node id="cecyvallejos" label="cecyvallejos" />
+      <node id="ivangarciamayer" label="ivangarciamayer" />
+      <node id="mirelinavarro" label="mirelinavarro" />
+      <node id="julitos67636797" label="julitos67636797" />
+      <node id="kurtnolte" label="kurtnolte" />
+      <node id="sarracenorafael" label="sarracenorafael" />
+      <node id="ellenmsullivan" label="ellenmsullivan" />
+      <node id="masdmax1" label="masdmax1" />
+      <node id="mayraormea" label="mayraormea" />
+      <node id="YouTube" label="YouTube" />
+      <node id="catafur" label="catafur" />
+      <node id="AdrianzenEduard" label="AdrianzenEduard" />
+      <node id="luisin67" label="luisin67" />
+      <node id="elcurul" label="elcurul" />
+      <node id="rubenhachedrums" label="rubenhachedrums" />
+      <node id="lichiferrr" label="lichiferrr" />
+      <node id="rmezas" label="rmezas" />
+      <node id="alvaromns" label="alvaromns" />
+      <node id="edinsalvadorpa2" label="edinsalvadorpa2" />
+      <node id="danny_elgarri" label="danny_elgarri" />
+      <node id="pablojesusnazar" label="pablojesusnazar" />
+      <node id="miliarellano" label="miliarellano" />
+      <node id="MilagrosLeivaG" label="MilagrosLeivaG" />
+      <node id="bluetransporte" label="bluetransporte" />
+      <node id="horna_olga" label="horna_olga" />
+      <node id="calin_oficial" label="calin_oficial" />
+      <node id="jmedigut" label="jmedigut" />
+      <node id="chelerofiel" label="chelerofiel" />
+      <node id="MininterPeru" label="MininterPeru" />
+      <node id="sulkafi" label="sulkafi" />
+      <node id="Minsa_Peru" label="Minsa_Peru" />
+      <node id="xtianmanco" label="xtianmanco" />
+      <node id="perlaberrios" label="perlaberrios" />
+      <node id="ExpresoPeru" label="ExpresoPeru" />
+      <node id="diarioelperuano" label="diarioelperuano" />
+      <node id="cecolcese" label="cecolcese" />
+      <node id="gvillasis" label="gvillasis" />
+      <node id="javichoal" label="javichoal" />
+      <node id="magalyperu" label="magalyperu" />
+      <node id="agencia_andina" label="agencia_andina" />
+      <node id="jpmadrid1" label="jpmadrid1" />
+      <node id="0sa_caperuza" label="0sa_caperuza" />
+      <node id="tecnoycienciaec" label="tecnoycienciaec" />
+      <node id="Rocio_BarriosAl" label="Rocio_BarriosAl" />
+      <node id="crisilcu1" label="crisilcu1" />
+      <node id="joaobernuy" label="joaobernuy" />
+      <node id="larepublica_pe" label="larepublica_pe" />
+      <node id="silvanamirella" label="silvanamirella" />
+      <node id="rmrojas24" label="rmrojas24" />
+      <node id="hernanismo" label="hernanismo" />
+      <node id="dannixramirezs1" label="dannixramirezs1" />
+      <node id="luroel" label="luroel" />
+      <node id="verdesrosas" label="verdesrosas" />
+      <node id="manuelespejor" label="manuelespejor" />
+      <node id="atvmasnoticias" label="atvmasnoticias" />
+      <node id="karinanovoal" label="karinanovoal" />
+      <node id="claudio40528769" label="claudio40528769" />
+      <node id="pcruzaleguijohn" label="pcruzaleguijohn" />
+      <node id="silviatoledov" label="silviatoledov" />
+      <node id="josewvilca" label="josewvilca" />
+      <node id="EFEnoticias" label="EFEnoticias" />
+      <node id="zosimar57" label="zosimar57" />
+      <node id="JaimeChincha" label="JaimeChincha" />
+      <node id="15_07_53_max" label="15_07_53_max" />
+      <node id="itsllini" label="itsllini" />
+      <node id="paulreategui_27" label="paulreategui_27" />
+      <node id="VicAZeballos" label="VicAZeballos" />
+      <node id="unpocodenada1" label="unpocodenada1" />
+      <node id="abakus2403" label="abakus2403" />
+      <node id="FabiolaMunozD" label="FabiolaMunozD" />
+      <node id="gipsi2010" label="gipsi2010" />
+      <node id="CMP_PERU" label="CMP_PERU" />
+      <node id="meroca65" label="meroca65" />
+      <node id="lcse16" label="lcse16" />
+      <node id="kikesitov67" label="kikesitov67" />
+      <node id="juancarlosdelag" label="juancarlosdelag" />
+      <node id="pedrotf" label="pedrotf" />
+      <node id="bicebenvenuto" label="bicebenvenuto" />
+      <node id="brufer8" label="brufer8" />
+      <node id="vincegowmon" label="vincegowmon" />
+      <node id="carlosharrymune" label="carlosharrymune" />
+      <node id="josepaulprensa" label="josepaulprensa" />
+      <node id="rafovalle1" label="rafovalle1" />
+      <node id="tafurpeter" label="tafurpeter" />
+      <node id="fredyfcg" label="fredyfcg" />
+      <node id="josebarbaran3" label="josebarbaran3" />
+      <node id="Observateurs" label="Observateurs" />
+      <node id="edwincabreraar1" label="edwincabreraar1" />
+      <node id="PanamericanaTV" label="PanamericanaTV" />
+      <node id="djocovich2016" label="djocovich2016" />
+      <node id="willaxtv" label="willaxtv" />
+      <node id="DeltaMdelta" label="DeltaMdelta" />
+      <node id="reporteropro" label="reporteropro" />
+      <node id="salitasin" label="salitasin" />
+      <node id="jessjessrom" label="jessjessrom" />
+      <node id="f_bardales" label="f_bardales" />
+      <node id="cnddhh" label="cnddhh" />
+      <node id="iraddios" label="iraddios" />
+      <node id="antirojo8" label="antirojo8" />
+      <node id="walbugi" label="walbugi" />
+      <node id="4610885" label="4610885" />
+      <node id="brokerobertito" label="brokerobertito" />
+      <node id="Covid_19Time" label="Covid_19Time" />
+      <node id="chechoen40tena" label="chechoen40tena" />
+      <node id="hildread" label="hildread" />
+      <node id="alaclaude" label="alaclaude" />
+      <node id="biodiversityge1" label="biodiversityge1" />
+      <node id="nanyluz" label="nanyluz" />
+      <node id="naval_peru" label="naval_peru" />
+      <node id="BancadaAPP" label="BancadaAPP" />
+      <node id="raborg17" label="raborg17" />
+      <node id="ricso777" label="ricso777" />
+      <node id="RadioNacionalFM" label="RadioNacionalFM" />
+      <node id="Capital967" label="Capital967" />
+      <node id="xander_u" label="xander_u" />
+      <node id="pcccvv" label="pcccvv" />
+      <node id="peru21noticias" label="peru21noticias" />
+      <node id="tonygstark" label="tonygstark" />
+      <node id="minproduccion" label="minproduccion" />
+      <node id="fernandomcloret" label="fernandomcloret" />
+      <node id="chicafuego41" label="chicafuego41" />
+      <node id="rogergo58952025" label="rogergo58952025" />
+      <node id="quiquefloresp" label="quiquefloresp" />
+      <node id="KarinaNovoaL" label="KarinaNovoaL" />
+      <node id="gonzalo_rdll" label="gonzalo_rdll" />
+      <node id="maratuech61" label="maratuech61" />
+      <node id="josejibaja7" label="josejibaja7" />
+      <node id="alanxicoch" label="alanxicoch" />
+      <node id="exitosape" label="exitosape" />
+      <node id="mnosuna1" label="mnosuna1" />
+      <node id="ampiro1978" label="ampiro1978" />
+      <node id="itzadesign" label="itzadesign" />
+      <node id="grovervas" label="grovervas" />
+      <node id="maguina_ciro" label="maguina_ciro" />
+      <node id="monikpulido" label="monikpulido" />
+      <node id="Publimetrope" label="Publimetrope" />
+      <node id="boichot" label="boichot" />
+      <node id="Politica_LR" label="Politica_LR" />
+      <node id="docjrojas" label="docjrojas" />
+      <node id="marcomis23" label="marcomis23" />
+      <node id="marrog2301" label="marrog2301" />
+      <node id="sergiobucks93" label="sergiobucks93" />
+      <node id="miguel04994478" label="miguel04994478" />
+      <node id="abraham88152436" label="abraham88152436" />
+      <node id="josebahamondess" label="josebahamondess" />
+      <node id="DiarioElPeruano" label="DiarioElPeruano" />
+      <node id="nikolai98636155" label="nikolai98636155" />
+      <node id="rogerrios1109" label="rogerrios1109" />
+      <node id="Shey2403" label="Shey2403" />
+      <node id="Agencia_Andina" label="Agencia_Andina" />
+      <node id="milenadovil" label="milenadovil" />
+      <node id="mocherovasquez" label="mocherovasquez" />
+      <node id="cixrocio" label="cixrocio" />
+      <node id="christiangonco" label="christiangonco" />
+      <node id="engrare" label="engrare" />
+      <node id="tcainaru" label="tcainaru" />
+      <node id="andresveracordo" label="andresveracordo" />
+      <node id="yachay_dc" label="yachay_dc" />
+      <node id="bitocho" label="bitocho" />
+      <node id="fetrasinarp" label="fetrasinarp" />
+      <node id="Latina_pe" label="Latina_pe" />
+      <node id="changeugenio" label="changeugenio" />
+      <node id="cesarri89010845" label="cesarri89010845" />
+      <node id="dictadura19" label="dictadura19" />
+      <node id="ninaleonorvp" label="ninaleonorvp" />
+      <node id="pavese" label="pavese" />
+      <node id="atv_noticias" label="atv_noticias" />
+      <node id="joannazc" label="joannazc" />
+      <node id="flytodreamland" label="flytodreamland" />
+      <node id="saludmariano" label="saludmariano" />
+      <node id="arthurcaipo" label="arthurcaipo" />
+      <node id="roosgarvi" label="roosgarvi" />
+      <node id="vasquezmattos" label="vasquezmattos" />
+      <node id="derojascpkdoor" label="derojascpkdoor" />
+      <node id="franktrovadicto" label="franktrovadicto" />
+      <node id="a_quitain" label="a_quitain" />
+      <node id="araujo_jeannine" label="araujo_jeannine" />
+      <node id="hansel_ortega01" label="hansel_ortega01" />
+      <node id="luccin1984" label="luccin1984" />
+      <node id="vonmaack" label="vonmaack" />
+      <node id="marian_peru" label="marian_peru" />
+      <node id="diarioojo" label="diarioojo" />
+      <node id="illaryverdad" label="illaryverdad" />
+      <node id="velagrecia921" label="velagrecia921" />
+      <node id="ucinoticias_pe" label="ucinoticias_pe" />
+      <node id="josantrp" label="josantrp" />
+      <node id="drhuerta" label="drhuerta" />
+      <node id="robertnald" label="robertnald" />
+      <node id="mars___27" label="mars___27" />
+      <node id="destapestv" label="destapestv" />
+      <node id="jobanavr" label="jobanavr" />
+      <node id="aunhaytiempito" label="aunhaytiempito" />
+      <node id="betoamenero" label="betoamenero" />
+      <node id="SputnikMundo" label="SputnikMundo" />
+      <node id="jazminmestanza" label="jazminmestanza" />
+      <node id="elregionalpiura" label="elregionalpiura" />
+      <node id="jonas55098617" label="jonas55098617" />
+      <node id="manarellidiego" label="manarellidiego" />
+      <node id="nadaescomotu_pe" label="nadaescomotu_pe" />
+      <node id="GoreLoretoOf" label="GoreLoretoOf" />
+      <node id="marialegare29" label="marialegare29" />
+      <node id="fgdonado" label="fgdonado" />
+      <node id="avasquezln" label="avasquezln" />
+      <node id="rolmonpa" label="rolmonpa" />
+      <node id="ernesto1276" label="ernesto1276" />
+      <node id="julie_ofwolves" label="julie_ofwolves" />
+      <node id="desdeurbania" label="desdeurbania" />
+      <node id="ricardonexpalma" label="ricardonexpalma" />
+      <node id="juanarroyoperu" label="juanarroyoperu" />
+      <node id="elcomercio_peru" label="elcomercio_peru" />
+      <node id="patriciagamarra" label="patriciagamarra" />
+      <node id="teaguaaire" label="teaguaaire" />
+      <node id="mdanielcarbajal" label="mdanielcarbajal" />
+      <node id="abraham19980403" label="abraham19980403" />
+      <node id="lmcantonio" label="lmcantonio" />
+      <node id="TatianaAstengoB" label="TatianaAstengoB" />
+      <node id="victorzamora" label="victorzamora" />
+      <node id="pintora67" label="pintora67" />
+      <node id="feemar22" label="feemar22" />
+      <node id="wilfred02228931" label="wilfred02228931" />
+      <node id="soyautistayque" label="soyautistayque" />
+      <node id="magnoalarcon" label="magnoalarcon" />
+      <node id="acidpear_ale" label="acidpear_ale" />
+      <node id="nnguerrero" label="nnguerrero" />
+      <node id="delurens" label="delurens" />
+      <node id="xa_piri" label="xa_piri" />
+      <node id="guiulfoe" label="guiulfoe" />
+      <node id="raulmvf43" label="raulmvf43" />
+      <node id="digar59" label="digar59" />
+      <node id="PeruNews" label="PeruNews" />
+      <node id="ardash147" label="ardash147" />
+      <node id="quintovasquez2" label="quintovasquez2" />
+      <node id="ritazelada" label="ritazelada" />
+      <node id="congresoperu" label="congresoperu" />
+      <node id="linanbenitez" label="linanbenitez" />
+      <node id="x100prephoto1" label="x100prephoto1" />
+      <node id="dickson_23" label="dickson_23" />
+      <node id="horasmuertas" label="horasmuertas" />
+      <node id="RPPNoticias" label="RPPNoticias" />
+      <node id="encaladanatalia" label="encaladanatalia" />
+      <node id="achristiandavid" label="achristiandavid" />
+      <node id="mirtyvas" label="mirtyvas" />
+      <node id="josecalleq" label="josecalleq" />
+      <node id="marronisima" label="marronisima" />
+      <node id="jaime_sandro" label="jaime_sandro" />
+      <node id="hilwiller" label="hilwiller" />
+      <node id="CCFFAA_PERU" label="CCFFAA_PERU" />
+      <node id="anvic20" label="anvic20" />
+      <node id="FioreMolinelli" label="FioreMolinelli" />
+      <node id="alberto31408712" label="alberto31408712" />
+      <node id="aten07404629" label="aten07404629" />
+      <node id="perufashionblog" label="perufashionblog" />
+      <node id="fmedinach" label="fmedinach" />
+      <node id="tweet_informa" label="tweet_informa" />
+      <node id="freddie1170" label="freddie1170" />
+      <node id="pedssssssss26" label="pedssssssss26" />
+      <node id="amazondas_" label="amazondas_" />
+      <node id="kashamarka" label="kashamarka" />
+      <node id="karlos_blanch" label="karlos_blanch" />
+      <node id="IndiraHuilca" label="IndiraHuilca" />
+      <node id="soria_annie" label="soria_annie" />
+      <node id="psalasc" label="psalasc" />
+      <node id="blackdragon1802" label="blackdragon1802" />
+      <node id="hola16654465" label="hola16654465" />
+      <node id="DanielUrresti1" label="DanielUrresti1" />
+      <node id="drgeriatrico" label="drgeriatrico" />
+      <node id="xuckyba" label="xuckyba" />
+      <node id="sjjohan1" label="sjjohan1" />
+      <node id="nolita3877" label="nolita3877" />
+      <node id="primerafuente1" label="primerafuente1" />
+      <node id="erichvc1978" label="erichvc1978" />
+      <node id="marcosa03239902" label="marcosa03239902" />
+      <node id="hans_carr" label="hans_carr" />
+      <node id="de_verdadero" label="de_verdadero" />
+      <node id="prmmsd" label="prmmsd" />
+      <node id="fanylrv" label="fanylrv" />
+      <node id="MindefPeru" label="MindefPeru" />
+      <node id="pila1144" label="pila1144" />
+      <node id="jfowks" label="jfowks" />
+      <node id="Gestionpe" label="Gestionpe" />
+      <node id="marianela2390" label="marianela2390" />
+      <node id="jairmejiaguerr1" label="jairmejiaguerr1" />
+      <node id="elmermascaro" label="elmermascaro" />
+      <node id="peter_roman_" label="peter_roman_" />
+      <node id="uhuamaniq" label="uhuamaniq" />
+      <node id="bouurbaki74" label="bouurbaki74" />
+      <node id="trovaperu" label="trovaperu" />
+      <node id="elvistq" label="elvistq" />
+      <node id="alexmab162" label="alexmab162" />
+      <node id="lincolnfr7" label="lincolnfr7" />
+      <node id="javier08920360" label="javier08920360" />
+      <node id="milizadecordova" label="milizadecordova" />
+      <node id="almestarrivera" label="almestarrivera" />
+      <node id="littlepipedream" label="littlepipedream" />
+      <node id="dorisazores" label="dorisazores" />
+      <node id="fernandomunioz7" label="fernandomunioz7" />
+      <node id="ollobaluis" label="ollobaluis" />
+      <node id="jimmyjoya5" label="jimmyjoya5" />
+      <node id="MimpPeru" label="MimpPeru" />
+      <node id="tubinocarlos" label="tubinocarlos" />
+      <node id="teresalayamari" label="teresalayamari" />
+      <node id="policiasperu" label="policiasperu" />
+      <node id="IDL_R" label="IDL_R" />
+      <node id="harryrodrguez14" label="harryrodrguez14" />
+      <node id="barbara_fraser" label="barbara_fraser" />
+      <node id="karuchita_14" label="karuchita_14" />
+      <node id="jenilu7" label="jenilu7" />
+      <node id="oliverbardales1" label="oliverbardales1" />
+      <node id="sjvore" label="sjvore" />
+      <node id="herardopablo" label="herardopablo" />
+      <node id="MidisPeru" label="MidisPeru" />
+      <node id="javier16193244" label="javier16193244" />
+      <node id="ginamelissa8" label="ginamelissa8" />
+      <node id="braveheart60316" label="braveheart60316" />
+      <node id="ErnesBustamante" label="ErnesBustamante" />
+      <node id="nivhjv" label="nivhjv" />
+      <node id="diaregional_hoy" label="diaregional_hoy" />
+      <node id="elmundook" label="elmundook" />
+      <node id="esquinabaja" label="esquinabaja" />
+      <node id="jwbartlett92" label="jwbartlett92" />
+      <node id="jfherrerat" label="jfherrerat" />
+      <node id="lymcomunicacion" label="lymcomunicacion" />
+      <node id="suselparedes" label="suselparedes" />
+      <node id="essaludperu" label="essaludperu" />
+      <node id="sincerelycatish" label="sincerelycatish" />
+      <node id="nubemargarita" label="nubemargarita" />
+      <node id="almaviejaxd" label="almaviejaxd" />
+      <node id="cesarbardales" label="cesarbardales" />
+      <node id="edgardust" label="edgardust" />
+      <node id="macaceresb" label="macaceresb" />
+      <node id="alfonso2791" label="alfonso2791" />
+      <node id="yimmybeltran" label="yimmybeltran" />
+      <node id="extru28" label="extru28" />
+      <node id="VeroLinaresC" label="VeroLinaresC" />
+      <node id="cynflawers1" label="cynflawers1" />
+      <node id="chaparro_am" label="chaparro_am" />
+      <node id="danml6469" label="danml6469" />
+      <node id="sunafilperu" label="sunafilperu" />
+      <node id="kemagrievas" label="kemagrievas" />
+      <node id="nancyperez7" label="nancyperez7" />
+      <node id="yoshi0800" label="yoshi0800" />
+      <node id="sanurfi" label="sanurfi" />
+      <node id="pymetecperu" label="pymetecperu" />
+      <node id="sostenible_pe" label="sostenible_pe" />
+      <node id="hilary_saldana" label="hilary_saldana" />
+      <node id="ydolemsc" label="ydolemsc" />
+      <node id="brzelada" label="brzelada" />
+      <node id="lcbcasbo" label="lcbcasbo" />
+      <node id="majolariva" label="majolariva" />
+      <node id="gabycarrasco98" label="gabycarrasco98" />
+      <node id="Latina_Noticias" label="Latina_Noticias" />
+      <node id="lector5599" label="lector5599" />
+      <node id="andyjefree" label="andyjefree" />
+      <node id="aruizdasilva" label="aruizdasilva" />
+      <node id="patolocooo" label="patolocooo" />
+      <node id="gabrielalpp" label="gabrielalpp" />
+      <node id="_reyles94" label="_reyles94" />
+      <node id="carlos__kun" label="carlos__kun" />
+      <node id="erreleon" label="erreleon" />
+      <node id="pilarva09318751" label="pilarva09318751" />
+      <node id="bhuacapu" label="bhuacapu" />
+      <node id="jery_alvarez" label="jery_alvarez" />
+      <node id="telemacorimac" label="telemacorimac" />
+      <node id="j_riquelmem" label="j_riquelmem" />
+      <node id="MINPRODUCCION" label="MINPRODUCCION" />
+      <node id="cocoamado" label="cocoamado" />
+      <node id="rmapalacios" label="rmapalacios" />
+      <node id="marco33445566" label="marco33445566" />
+      <node id="rodnallersperu" label="rodnallersperu" />
+      <node id="rpizango" label="rpizango" />
+      <node id="abelgilvonio" label="abelgilvonio" />
+      <node id="SINAMSSOP1" label="SINAMSSOP1" />
+      <node id="nidiavilchez" label="nidiavilchez" />
+      <node id="fapperu" label="fapperu" />
+      <node id="hanobis" label="hanobis" />
+      <node id="betto_florez" label="betto_florez" />
+      <node id="rubncoralcastro" label="rubncoralcastro" />
+      <node id="BancodelaNacion" label="BancodelaNacion" />
+      <node id="cmalcagmailcom1" label="cmalcagmailcom1" />
+      <node id="mary186" label="mary186" />
+      <node id="peruenlanoticia" label="peruenlanoticia" />
+      <node id="batidodeleche_" label="batidodeleche_" />
+      <node id="c_chavez_v" label="c_chavez_v" />
+      <node id="yohanapantevis" label="yohanapantevis" />
+      <node id="patricioy8" label="patricioy8" />
+      <node id="alvarado_debora" label="alvarado_debora" />
+      <node id="PoliciaPeru" label="PoliciaPeru" />
+      <node id="morevelar" label="morevelar" />
+      <node id="chitoakrata" label="chitoakrata" />
+      <node id="noticiAmerica" label="noticiAmerica" />
+      <node id="sandrocubas" label="sandrocubas" />
+      <node id="jpascualsa" label="jpascualsa" />
+      <node id="gitototito" label="gitototito" />
+      <node id="salva_oli" label="salva_oli" />
+      <node id="radionacionalfm" label="radionacionalfm" />
+      <node id="fervidal31" label="fervidal31" />
+      <node id="chemo90327589" label="chemo90327589" />
+      <node id="malditaternura" label="malditaternura" />
+      <node id="calongo2020" label="calongo2020" />
+      <node id="apaccba" label="apaccba" />
+      <node id="phantassma" label="phantassma" />
+      <node id="alex_risicaro" label="alex_risicaro" />
+      <node id="padi_ajms" label="padi_ajms" />
+      <node id="hermeto48" label="hermeto48" />
+      <node id="juanmendiz" label="juanmendiz" />
+      <node id="troncoso_leyla" label="troncoso_leyla" />
+      <node id="dracocomet" label="dracocomet" />
+      <node id="eliasgmeztuest1" label="eliasgmeztuest1" />
+      <node id="adeacogom" label="adeacogom" />
+      <node id="MartinVizcarraC" label="MartinVizcarraC" />
+      <node id="cmp_peru" label="cmp_peru" />
+      <node id="JulianaOxenford" label="JulianaOxenford" />
+      <node id="gransady16cm" label="gransady16cm" />
+      <node id="patydonayre" label="patydonayre" />
+      <node id="edgar45449433" label="edgar45449433" />
+      <node id="beequeencoin" label="beequeencoin" />
+      <node id="Cuarto_Poder" label="Cuarto_Poder" />
+      <node id="borischicoma" label="borischicoma" />
+      <node id="charles_iqt" label="charles_iqt" />
+      <node id="rubenrmanrique" label="rubenrmanrique" />
+      <node id="iscotva" label="iscotva" />
+      <node id="jimmybussol" label="jimmybussol" />
+      <node id="miguell83576985" label="miguell83576985" />
+      <node id="carlosa43171787" label="carlosa43171787" />
+      <node id="cristodelladron" label="cristodelladron" />
+      <node id="jmma1996" label="jmma1996" />
+      <node id="maramego96" label="maramego96" />
+      <node id="coral54406522" label="coral54406522" />
+      <node id="carlosc00268781" label="carlosc00268781" />
+      <node id="elsajaque4" label="elsajaque4" />
+      <node id="luzcayguaray" label="luzcayguaray" />
+      <node id="chachipaz" label="chachipaz" />
+      <node id="nellyangelica7" label="nellyangelica7" />
+      <node id="Gpereyrac" label="Gpereyrac" />
+      <node id="liliana5500" label="liliana5500" />
+      <node id="monicayaya" label="monicayaya" />
+      <node id="jharyjhary" label="jharyjhary" />
+      <node id="ContraloriaPeru" label="ContraloriaPeru" />
+      <node id="claraeospinag" label="claraeospinag" />
+      <node id="hejabofe" label="hejabofe" />
+      <node id="JBCPERU" label="JBCPERU" />
+      <node id="williamvegalop1" label="williamvegalop1" />
+      <node id="el_portuga2" label="el_portuga2" />
+      <node id="chrheaney" label="chrheaney" />
+    </nodes>
+    <edges>
+      <edge source="andresravarocci" target="andresravarocci" id="0" />
+      <edge source="andresravarocci" target="fernandomcloret" id="1" />
+      <edge source="andresravarocci" target="congresoperu" id="2" />
+      <edge source="e_pigrafo" target="e_pigrafo" id="3" />
+      <edge source="e_pigrafo" target="Minsa_Peru" id="4" />
+      <edge source="e_pigrafo" target="CMP_PERU" id="5" />
+      <edge source="ryselconsac" target="ryselconsac" id="6" />
+      <edge source="ryselconsac" target="MartinVizcarraC" id="7" />
+      <edge source="elagente008" target="keikonova2016" id="8" />
+      <edge source="elagente008" target="FioreMolinelli" id="9" />
+      <edge source="elagente008" target="MartinVizcarraC" id="10" />
+      <edge source="khen_francko" target="khen_francko" id="11" />
+      <edge source="khen_francko" target="Minsa_Peru" id="12" />
+      <edge source="khen_francko" target="Agencia_Andina" id="13" />
+      <edge source="khen_francko" target="DiarioElPeruano" id="14" />
+      <edge source="khen_francko" target="noticias_tvperu" id="15" />
+      <edge source="khen_francko" target="RadioNacionalFM" id="16" />
+      <edge source="l_valle" target="l_valle" id="17" />
+      <edge source="l_valle" target="victorzamora" id="18" />
+      <edge source="luisvillanuevao" target="Minsa_Peru" id="19" />
+      <edge source="luisvillanuevao" target="ocram" id="20" />
+      <edge source="luisvillanuevao" target="EsSaludPeru" id="21" />
+      <edge source="luisvillanuevao" target="FioreMolinelli" id="22" />
+      <edge source="jonathanpersa" target="jonathanpersa" id="23" />
+      <edge source="jonathanpersa" target="MartinVizcarraC" id="24" />
+      <edge source="jonathanpersa" target="VicAZeballos" id="25" />
+      <edge source="jonathanpersa" target="PanamericanaTV" id="26" />
+      <edge source="jonathanpersa" target="fernandomcloret" id="27" />
+      <edge source="jonathanpersa" target="victorzamora" id="28" />
+      <edge source="atvpe" target="atvpe" id="29" />
+      <edge source="atvpe" target="JulianaOxenford" id="30" />
+      <edge source="percyvega12" target="PatyDonayre" id="31" />
+      <edge source="percyvega12" target="MartinVizcarraC" id="32" />
+      <edge source="percyvega12" target="VicAZeballos" id="33" />
+      <edge source="varevalo1977" target="varevalo1977" id="34" />
+      <edge source="carlosthompson6" target="larepublica_pe" id="35" />
+      <edge source="gacelsayet" target="gacelsayet" id="36" />
+      <edge source="gacelsayet" target="ItsLlini" id="37" />
+      <edge source="fio22ac" target="fio22ac" id="38" />
+      <edge source="fio22ac" target="Politica_LR" id="39" />
+      <edge source="noticias_tvperu" target="noticias_tvperu" id="40" />
+      <edge source="noticias_tvperu" target="EsSaludPeru" id="41" />
+      <edge source="noticias_tvperu" target="pcmperu" id="42" />
+      <edge source="noticias_tvperu" target="MimpPeru" id="43" />
+      <edge source="noticias_tvperu" target="MINPRODUCCION" id="44" />
+      <edge source="noticias_tvperu" target="MartinVizcarraC" id="45" />
+      <edge source="noticias_tvperu" target="Minsa_Peru" id="46" />
+      <edge source="noticias_tvperu" target="MEF_Peru" id="47" />
+      <edge source="noticias_tvperu" target="MidisPeru" id="48" />
+      <edge source="alberto02856917" target="atv_noticias" id="49" />
+      <edge source="alberto02856917" target="JulianaOxenford" id="50" />
+      <edge source="snmpeperu" target="snmpeperu" id="51" />
+      <edge source="snmpeperu" target="Minsa_Peru" id="52" />
+      <edge source="haroldboooor" target="haroldboooor" id="53" />
+      <edge source="rubbentc" target="rubbentc" id="54" />
+      <edge source="erickmoraleslii" target="Minsa_Peru" id="55" />
+      <edge source="jorgelu2792" target="Minsa_Peru" id="56" />
+      <edge source="jorgelu2792" target="MartinVizcarraC" id="57" />
+      <edge source="waykaperu" target="Minsa_Peru" id="58" />
+      <edge source="waykaperu" target="victorzamora" id="59" />
+      <edge source="consultor46" target="felipeestevesvg" id="60" />
+      <edge source="sucesosperu" target="sucesosperu" id="61" />
+      <edge source="sucesosperu" target="Minsa_Peru" id="62" />
+      <edge source="sucesosperu" target="EsSaludPeru" id="63" />
+      <edge source="sucesosperu" target="MartinVizcarraC" id="64" />
+      <edge source="sucesosperu" target="victorzamora" id="65" />
+      <edge source="sucesosperu" target="FioreMolinelli" id="66" />
+      <edge source="sucesosperu" target="pcmperu" id="67" />
+      <edge source="sucesosperu" target="canalN_" id="68" />
+      <edge source="sucesosperu" target="MEF_Peru" id="69" />
+      <edge source="lechti_cowboy" target="lechti_cowboy" id="70" />
+      <edge source="lechti_cowboy" target="Observateurs" id="71" />
+      <edge source="pacheco7020" target="pacheco7020" id="72" />
+      <edge source="pacheco7020" target="victorzamora" id="73" />
+      <edge source="titoalvites" target="exitosape" id="74" />
+      <edge source="titoalvites" target="Minsa_Peru" id="75" />
+      <edge source="ken_rhyne" target="ken_rhyne" id="76" />
+      <edge source="ken_rhyne" target="haroldboooor" id="77" />
+      <edge source="hijadelcallao" target="hijadelcallao" id="78" />
+      <edge source="hijadelcallao" target="noticias_tvperu" id="79" />
+      <edge source="fiorelasoria4" target="Minsa_Peru" id="80" />
+      <edge source="fiorelasoria4" target="MartinVizcarraC" id="81" />
+      <edge source="fiorelasoria4" target="MEF_Peru" id="82" />
+      <edge source="felipeestevesvg" target="felipeestevesvg" id="83" />
+      <edge source="pacobazan_" target="pacobazan_" id="84" />
+      <edge source="cfc3c46a05c74cd" target="cfc3c46a05c74cd" id="85" />
+      <edge source="cfc3c46a05c74cd" target="KikeBravoPrado" id="86" />
+      <edge source="roxcanedo" target="roxcanedo" id="87" />
+      <edge source="defensoria_peru" target="Defensoria_Peru" id="88" />
+      <edge source="defensoria_peru" target="RPPNoticias" id="89" />
+      <edge source="defensoria_peru" target="fapperu" id="90" />
+      <edge source="defensoria_peru" target="Minsa_Peru" id="91" />
+      <edge source="defensoria_peru" target="MimpPeru" id="92" />
+      <edge source="defensoria_peru" target="canalN_" id="93" />
+      <edge source="defensoria_peru" target="BancodelaNacion" id="94" />
+      <edge source="defensoria_peru" target="PoliciaPeru" id="95" />
+      <edge source="defensoria_peru" target="CCFFAA_PERU" id="96" />
+      <edge source="ernalvarez1702" target="ernalvarez1702" id="97" />
+      <edge source="ernalvarez1702" target="victorzamora" id="98" />
+      <edge source="ernalvarez1702" target="EsSaludPeru" id="99" />
+      <edge source="edu2109" target="edu2109" id="100" />
+      <edge source="edu2109" target="victorzamora" id="101" />
+      <edge source="edu2109" target="MartinVizcarraC" id="102" />
+      <edge source="edu2109" target="congresoperu" id="103" />
+      <edge source="edu2109" target="IDL_R" id="104" />
+      <edge source="edu2109" target="JulianaOxenford" id="105" />
+      <edge source="edu2109" target="rmapalacios" id="106" />
+      <edge source="fidjie55" target="fidjie55" id="107" />
+      <edge source="fidjie55" target="Observateurs" id="108" />
+      <edge source="melissadeplumb" target="MartinVizcarraC" id="109" />
+      <edge source="melissadeplumb" target="victorzamora" id="110" />
+      <edge source="melissadeplumb" target="JulianaOxenford" id="111" />
+      <edge source="melissadeplumb" target="DeltaMdelta" id="112" />
+      <edge source="melissadeplumb" target="presidenciaperu" id="113" />
+      <edge source="melissadeplumb" target="Minsa_Peru" id="114" />
+      <edge source="melissadeplumb" target="SuSaludPeru" id="115" />
+      <edge source="takahashi020565" target="Minsa_Peru" id="116" />
+      <edge source="takahashi020565" target="victorzamora" id="117" />
+      <edge source="takahashi020565" target="MartinVizcarraC" id="118" />
+      <edge source="takahashi020565" target="pcmperu" id="119" />
+      <edge source="takahashi020565" target="Defensoria_Peru" id="120" />
+      <edge source="franklin_reyna" target="Minsa_Peru" id="121" />
+      <edge source="franklin_reyna" target="victorzamora" id="122" />
+      <edge source="frankvidales1" target="DanielUrresti1" id="123" />
+      <edge source="frankvidales1" target="MartinVizcarraC" id="124" />
+      <edge source="frankvidales1" target="MininterPeru" id="125" />
+      <edge source="maritzasen" target="diariocorreo" id="126" />
+      <edge source="maritzasen" target="victorzamora" id="127" />
+      <edge source="maritzasen" target="France24_es" id="128" />
+      <edge source="valiant1964" target="valiant1964" id="129" />
+      <edge source="valiant1964" target="abelgilvonio" id="130" />
+      <edge source="valiant1964" target="victorzamora" id="131" />
+      <edge source="ftolcor" target="Minsa_Peru" id="132" />
+      <edge source="ftolcor" target="MartinVizcarraC" id="133" />
+      <edge source="ftolcor" target="victorzamora" id="134" />
+      <edge source="ftolcor" target="congresoperu" id="135" />
+      <edge source="gabito" target="gabito" id="136" />
+      <edge source="gabito" target="Minsa_Peru" id="137" />
+      <edge source="gabito" target="congresoperu" id="138" />
+      <edge source="juan_silupu" target="juan_silupu" id="139" />
+      <edge source="juan_silupu" target="MartinVizcarraC" id="140" />
+      <edge source="juan_silupu" target="victorzamora" id="141" />
+      <edge source="jfespinozar" target="canalN_" id="142" />
+      <edge source="elintimorric31" target="elintimorric31" id="143" />
+      <edge source="elintimorric31" target="elcomercio_peru" id="144" />
+      <edge source="dio90859092" target="VeroLinaresC" id="145" />
+      <edge source="carlospalacio80" target="MartinVizcarraC" id="146" />
+      <edge source="3001rafa" target="3001rafa" id="147" />
+      <edge source="netoros" target="netoros" id="148" />
+      <edge source="ivnvc" target="ivnvc" id="149" />
+      <edge source="ivnvc" target="Minsa_Peru" id="150" />
+      <edge source="ivnvc" target="EsSaludPeru" id="151" />
+      <edge source="ivnvc" target="FioreMolinelli" id="152" />
+      <edge source="ivnvc" target="victorzamora" id="153" />
+      <edge source="guerrybi" target="guerrybi" id="154" />
+      <edge source="guerrybi" target="JulianaOxenford" id="155" />
+      <edge source="guerrybi" target="atvpe" id="156" />
+      <edge source="acosta_nizama" target="acosta_nizama" id="157" />
+      <edge source="acosta_nizama" target="FioreMolinelli" id="158" />
+      <edge source="realyeyoza" target="yachay_dc" id="159" />
+      <edge source="fhuayanar" target="Minsa_Peru" id="160" />
+      <edge source="fhuayanar" target="MartinVizcarraC" id="161" />
+      <edge source="fhuayanar" target="EsSaludPeru" id="162" />
+      <edge source="4e416c490afe4af" target="4e416c490afe4af" id="163" />
+      <edge source="4e416c490afe4af" target="MartinVizcarraC" id="164" />
+      <edge source="aaronrios90" target="KikeBravoPrado" id="165" />
+      <edge source="aaronrios90" target="Minsa_Peru" id="166" />
+      <edge source="aaronrios90" target="JulianaOxenford" id="167" />
+      <edge source="maurizioriba" target="MartinVizcarraC" id="168" />
+      <edge source="luiscarrillo66" target="luiscarrillo66" id="169" />
+      <edge source="luiscarrillo66" target="SputnikMundo" id="170" />
+      <edge source="studiokn" target="JulianaOxenford" id="171" />
+      <edge source="sabinrios" target="rmapalacios" id="172" />
+      <edge source="sabinrios" target="JulianaOxenford" id="173" />
+      <edge source="sabinrios" target="sigridbazan" id="174" />
+      <edge source="sabinrios" target="magalyperu" id="175" />
+      <edge source="reiiinamusic" target="reiiinamusic" id="176" />
+      <edge source="peruecpe" target="MDanielCarbajal" id="177" />
+      <edge source="kitylw" target="kitylw" id="178" />
+      <edge source="kitylw" target="pcmperu" id="179" />
+      <edge source="kitylw" target="Minsa_Peru" id="180" />
+      <edge source="kitylw" target="victorzamora" id="181" />
+      <edge source="kitylw" target="Rocio_BarriosAl" id="182" />
+      <edge source="kitylw" target="FabiolaMunozD" id="183" />
+      <edge source="kitylw" target="MartinVizcarraC" id="184" />
+      <edge source="kitylw" target="CMP_PERU" id="185" />
+      <edge source="kitylw" target="EsSaludPeru" id="186" />
+      <edge source="kitylw" target="presidenciaperu" id="187" />
+      <edge source="kitylw" target="GoreLoretoOf" id="188" />
+      <edge source="kitylw" target="larepublica_pe" id="189" />
+      <edge source="kitylw" target="elcomercio_peru" id="190" />
+      <edge source="kitylw" target="rmapalacios" id="191" />
+      <edge source="kitylw" target="FioreMolinelli" id="192" />
+      <edge source="kitylw" target="Defensoria_Peru" id="193" />
+      <edge source="kitylw" target="ContraloriaPeru" id="194" />
+      <edge source="kitylw" target="MimpPeru" id="195" />
+      <edge source="kitylw" target="pavese" id="196" />
+      <edge source="betsypamela5" target="betsypamela5" id="197" />
+      <edge source="betsypamela5" target="ExpresoPeru" id="198" />
+      <edge source="richitar007" target="richitar007" id="199" />
+      <edge source="richitar007" target="larepublica_pe" id="200" />
+      <edge source="tavorjj" target="tavorjj" id="201" />
+      <edge source="tavorjj" target="France24_es" id="202" />
+      <edge source="yrmabs" target="yrmabs" id="203" />
+      <edge source="yrmabs" target="MartinVizcarraC" id="204" />
+      <edge source="cumandarobin" target="Cuarto_Poder" id="205" />
+      <edge source="cumandarobin" target="DeltaMdelta" id="206" />
+      <edge source="cumandarobin" target="MartinVizcarraC" id="207" />
+      <edge source="hermmperu" target="noticiAmerica" id="208" />
+      <edge source="hermmperu" target="canalN_" id="209" />
+      <edge source="stapiab" target="stapiab" id="210" />
+      <edge source="stapiab" target="Minsa_Peru" id="211" />
+      <edge source="stapiab" target="FioreMolinelli" id="212" />
+      <edge source="stapiab" target="MartinVizcarraC" id="213" />
+      <edge source="stapiab" target="pcmperu" id="214" />
+      <edge source="stapiab" target="CMP_PERU" id="215" />
+      <edge source="stapiab" target="victorzamora" id="216" />
+      <edge source="tromepe" target="tromepe" id="217" />
+      <edge source="ricardogastaet1" target="PatyDonayre" id="218" />
+      <edge source="ricardogastaet1" target="MartinVizcarraC" id="219" />
+      <edge source="ricardogastaet1" target="Minsa_Peru" id="220" />
+      <edge source="oscarlra" target="rmapalacios" id="221" />
+      <edge source="vanegalloso" target="vanegalloso" id="222" />
+      <edge source="vanegalloso" target="tromepe" id="223" />
+      <edge source="willyzegarras" target="willyzegarras" id="224" />
+      <edge source="willyzegarras" target="Capital967" id="225" />
+      <edge source="frama54" target="frama54" id="226" />
+      <edge source="frama54" target="DeltaMdelta" id="227" />
+      <edge source="frama54" target="MartinVizcarraC" id="228" />
+      <edge source="raularroyodc" target="teozka" id="229" />
+      <edge source="raularroyodc" target="victorzamora" id="230" />
+      <edge source="pcmperu" target="pcmperu" id="231" />
+      <edge source="pcmperu" target="VicAZeballos" id="232" />
+      <edge source="pcmperu" target="EsSaludPeru" id="233" />
+      <edge source="beatrizbea2005" target="presidenciaperu" id="234" />
+      <edge source="beatrizbea2005" target="pcmperu" id="235" />
+      <edge source="beatrizbea2005" target="MartinVizcarraC" id="236" />
+      <edge source="beatrizbea2005" target="VicAZeballos" id="237" />
+      <edge source="beatrizbea2005" target="Defensoria_Peru" id="238" />
+      <edge source="beatrizbea2005" target="ContraloriaPeru" id="239" />
+      <edge source="beatrizbea2005" target="victorzamora" id="240" />
+      <edge source="radio_santarosa" target="radio_santarosa" id="241" />
+      <edge source="radio_santarosa" target="MartinVizcarraC" id="242" />
+      <edge source="keikonova2016" target="keikonova2016" id="243" />
+      <edge source="keikonova2016" target="RPPNoticias" id="244" />
+      <edge source="keikonova2016" target="FioreMolinelli" id="245" />
+      <edge source="josejlk" target="josejlk" id="246" />
+      <edge source="lugar20092" target="lugar20092" id="247" />
+      <edge source="lugar20092" target="peru21noticias" id="248" />
+      <edge source="neygaya" target="ToniAlvaL" id="249" />
+      <edge source="neygaya" target="DiarioElPeruano" id="250" />
+      <edge source="kluna1984" target="kluna1984" id="251" />
+      <edge source="kluna1984" target="Minsa_Peru" id="252" />
+      <edge source="kluna1984" target="victorzamora" id="253" />
+      <edge source="kluna1984" target="noticias_tvperu" id="254" />
+      <edge source="kluna1984" target="Agencia_Andina" id="255" />
+      <edge source="kluna1984" target="RadioNacionalFM" id="256" />
+      <edge source="kluna1984" target="DiarioElPeruano" id="257" />
+      <edge source="kluna1984" target="EsSaludPeru" id="258" />
+      <edge source="kluna1984" target="MindefPeru" id="259" />
+      <edge source="kluna1984" target="sigridbazan" id="260" />
+      <edge source="farfanglenn" target="sigridbazan" id="261" />
+      <edge source="farfanglenn" target="MartinVizcarraC" id="262" />
+      <edge source="farfanglenn" target="ContraloriaPeru" id="263" />
+      <edge source="farfanglenn" target="Minsa_Peru" id="264" />
+      <edge source="walterr71961789" target="ocram" id="265" />
+      <edge source="walterr71961789" target="teozka" id="266" />
+      <edge source="dirgis32" target="ItsLlini" id="267" />
+      <edge source="dirgis32" target="Latina_Noticias" id="268" />
+      <edge source="dirgis32" target="Minsa_Peru" id="269" />
+      <edge source="dirgis32" target="pcmperu" id="270" />
+      <edge source="dirgis32" target="RPPNoticias" id="271" />
+      <edge source="dirgis32" target="exitosape" id="272" />
+      <edge source="maycolfuentesl1" target="EsSaludPeru" id="273" />
+      <edge source="maycolfuentesl1" target="Agencia_Andina" id="274" />
+      <edge source="maycolfuentesl1" target="RadioNacionalFM" id="275" />
+      <edge source="maycolfuentesl1" target="elcomercio_peru" id="276" />
+      <edge source="maycolfuentesl1" target="exitosape" id="277" />
+      <edge source="maycolfuentesl1" target="noticiAmerica" id="278" />
+      <edge source="maycolfuentesl1" target="noticias_tvperu" id="279" />
+      <edge source="maycolfuentesl1" target="atvmasnoticias" id="280" />
+      <edge source="maycolfuentesl1" target="canalN_" id="281" />
+      <edge source="maycolfuentesl1" target="RPPNoticias" id="282" />
+      <edge source="maycolfuentesl1" target="DiarioElPeruano" id="283" />
+      <edge source="maycolfuentesl1" target="JulianaOxenford" id="284" />
+      <edge source="maycolfuentesl1" target="Minsa_Peru" id="285" />
+      <edge source="elnumerounog" target="diariocorreo" id="286" />
+      <edge source="yongmarilu" target="Minsa_Peru" id="287" />
+      <edge source="yongmarilu" target="MartinVizcarraC" id="288" />
+      <edge source="yongmarilu" target="presidenciaperu" id="289" />
+      <edge source="williammenech2" target="williammenech2" id="290" />
+      <edge source="williammenech2" target="realDonaldTrump" id="291" />
+      <edge source="geovanniacate" target="geovanniacate" id="292" />
+      <edge source="geovanniacate" target="MDanielCarbajal" id="293" />
+      <edge source="geovanniacate" target="MartinVizcarraC" id="294" />
+      <edge source="geovanniacate" target="victorzamora" id="295" />
+      <edge source="geovanniacate" target="Rocio_BarriosAl" id="296" />
+      <edge source="geovanniacate" target="VicAZeballos" id="297" />
+      <edge source="miri_in_the_sky" target="miri_in_the_sky" id="298" />
+      <edge source="miri_in_the_sky" target="elcomercio_peru" id="299" />
+      <edge source="tonyventur" target="tonyventur" id="300" />
+      <edge source="tonyventur" target="PBODigital" id="301" />
+      <edge source="tonyventur" target="Defensoria_Peru" id="302" />
+      <edge source="tonyventur" target="perlaberrios" id="303" />
+      <edge source="tonyventur" target="KarinaNovoaL" id="304" />
+      <edge source="tonyventur" target="fapperu" id="305" />
+      <edge source="totoarrascue" target="totoarrascue" id="306" />
+      <edge source="totoarrascue" target="esquinabaja" id="307" />
+      <edge source="alejandroiiiiz" target="sigridbazan" id="308" />
+      <edge source="alejandroiiiiz" target="patriciagamarra" id="309" />
+      <edge source="veronikconk20" target="veronikconk20" id="310" />
+      <edge source="veronikconk20" target="Minsa_Peru" id="311" />
+      <edge source="veronikconk20" target="noticias_tvperu" id="312" />
+      <edge source="veronikconk20" target="Agencia_Andina" id="313" />
+      <edge source="veronikconk20" target="RadioNacionalFM" id="314" />
+      <edge source="veronikconk20" target="DiarioElPeruano" id="315" />
+      <edge source="eerafaelp" target="eerafaelp" id="316" />
+      <edge source="eerafaelp" target="arthurcaipo" id="317" />
+      <edge source="grettiux" target="Minsa_Peru" id="318" />
+      <edge source="grettiux" target="pcmperu" id="319" />
+      <edge source="grettiux" target="presidenciaperu" id="320" />
+      <edge source="grettiux" target="exitosape" id="321" />
+      <edge source="grettiux" target="PanoramaPTV" id="322" />
+      <edge source="grettiux" target="Latina_Noticias" id="323" />
+      <edge source="grettiux" target="RPPNoticias" id="324" />
+      <edge source="grettiux" target="elcomercio_peru" id="325" />
+      <edge source="grettiux" target="drhuerta" id="326" />
+      <edge source="lahoraeslahora" target="lahoraeslahora" id="327" />
+      <edge source="lahoraeslahora" target="KikeBravoPrado" id="328" />
+      <edge source="lahoraeslahora" target="Minsa_Peru" id="329" />
+      <edge source="lahoraeslahora" target="Anchebiondi" id="330" />
+      <edge source="javierg19138876" target="FioreMolinelli" id="331" />
+      <edge source="javierg19138876" target="fapperu" id="332" />
+      <edge source="lacontamanina" target="lacontamanina" id="333" />
+      <edge source="lacontamanina" target="EsSaludPeru" id="334" />
+      <edge source="1felipecastillo" target="Minsa_Peru" id="335" />
+      <edge source="1felipecastillo" target="fapperu" id="336" />
+      <edge source="1felipecastillo" target="EsSaludPeru" id="337" />
+      <edge source="1felipecastillo" target="RPPNoticias" id="338" />
+      <edge source="1felipecastillo" target="exitosape" id="339" />
+      <edge source="1felipecastillo" target="elcomercio_peru" id="340" />
+      <edge source="1felipecastillo" target="ExpresoPeru" id="341" />
+      <edge source="1felipecastillo" target="diariocorreo" id="342" />
+      <edge source="lisiepacha" target="JulianaOxenford" id="343" />
+      <edge source="lisiepacha" target="MartinVizcarraC" id="344" />
+      <edge source="ingridg2405" target="ingridg2405" id="345" />
+      <edge source="cezarvonfotos" target="cezarvonfotos" id="346" />
+      <edge source="cezarvonfotos" target="AFPespanol" id="347" />
+      <edge source="anfema02" target="kikesitov67" id="348" />
+      <edge source="anfema02" target="RPPNoticias" id="349" />
+      <edge source="garciaberthita" target="Politica_ECpe" id="350" />
+      <edge source="garciaberthita" target="ErnesBustamante" id="351" />
+      <edge source="garciaberthita" target="VicAZeballos" id="352" />
+      <edge source="garciaberthita" target="Minsa_Peru" id="353" />
+      <edge source="garciaberthita" target="pcmperu" id="354" />
+      <edge source="garciaberthita" target="presidenciaperu" id="355" />
+      <edge source="garciaberthita" target="MindefPeru" id="356" />
+      <edge source="garciaberthita" target="CCFFAA_PERU" id="357" />
+      <edge source="garciaberthita" target="fapperu" id="358" />
+      <edge source="garciaberthita" target="EsSaludPeru" id="359" />
+      <edge source="garciaberthita" target="RPPNoticias" id="360" />
+      <edge source="garciaberthita" target="elcomercio_peru" id="361" />
+      <edge source="garciaberthita" target="exitosape" id="362" />
+      <edge source="garciaberthita" target="diariocorreo" id="363" />
+      <edge source="sergiosanabria4" target="sergiosanabria4" id="364" />
+      <edge source="sergiosanabria4" target="larepublica_pe" id="365" />
+      <edge source="bobbio_hector" target="bobbio_hector" id="366" />
+      <edge source="bobbio_hector" target="Covid_19Time" id="367" />
+      <edge source="brianjhon2" target="brianjhon2" id="368" />
+      <edge source="brianjhon2" target="MartinVizcarraC" id="369" />
+      <edge source="luisalb33751060" target="luisalb33751060" id="370" />
+      <edge source="luisalb33751060" target="peru21noticias" id="371" />
+      <edge source="halcalav" target="halcalav" id="372" />
+      <edge source="halcalav" target="victorzamora" id="373" />
+      <edge source="jptabja" target="jptabja" id="374" />
+      <edge source="maxchavezm" target="maxchavezm" id="375" />
+      <edge source="maxchavezm" target="BancadaAPP" id="376" />
+      <edge source="perlagrandez" target="EsSaludPeru" id="377" />
+      <edge source="perlagrandez" target="RadioNacionalFM" id="378" />
+      <edge source="perlagrandez" target="Agencia_Andina" id="379" />
+      <edge source="perlagrandez" target="noticias_tvperu" id="380" />
+      <edge source="perlagrandez" target="atvmasnoticias" id="381" />
+      <edge source="perlagrandez" target="DiarioElPeruano" id="382" />
+      <edge source="perlagrandez" target="elcomercio_peru" id="383" />
+      <edge source="perlagrandez" target="canalN_" id="384" />
+      <edge source="perlagrandez" target="exitosape" id="385" />
+      <edge source="perlagrandez" target="RPPNoticias" id="386" />
+      <edge source="teec43" target="teec43" id="387" />
+      <edge source="marce_yalta" target="marce_yalta" id="388" />
+      <edge source="marce_yalta" target="JulianaOxenford" id="389" />
+      <edge source="marce_yalta" target="MartinVizcarraC" id="390" />
+      <edge source="marce_yalta" target="RPPNoticias" id="391" />
+      <edge source="marygut33145724" target="marygut33145724" id="392" />
+      <edge source="marygut33145724" target="MartinVizcarraC" id="393" />
+      <edge source="natalypresentac" target="natalypresentac" id="394" />
+      <edge source="natalypresentac" target="peru21noticias" id="395" />
+      <edge source="natalypresentac" target="maguina_ciro" id="396" />
+      <edge source="fedeminsap2" target="Minsa_Peru" id="397" />
+      <edge source="fedeminsap2" target="MartinVizcarraC" id="398" />
+      <edge source="diariocorreo" target="diariocorreo" id="399" />
+      <edge source="orihuelatam" target="exitosape" id="400" />
+      <edge source="orihuelatam" target="sigridbazan" id="401" />
+      <edge source="orihuelatam" target="abelgilvonio" id="402" />
+      <edge source="orihuelatam" target="Minsa_Peru" id="403" />
+      <edge source="orihuelatam" target="ensustrece" id="404" />
+      <edge source="orihuelatam" target="Covid_19Time" id="405" />
+      <edge source="ecafalen" target="ecafalen" id="406" />
+      <edge source="vmuhligbrennta1" target="MartinVizcarraC" id="407" />
+      <edge source="vmuhligbrennta1" target="Minsa_Peru" id="408" />
+      <edge source="sawasqa" target="sawasqa" id="409" />
+      <edge source="blankpage1508" target="victorzamora" id="410" />
+      <edge source="blankpage1508" target="Minsa_Peru" id="411" />
+      <edge source="cecyvallejos" target="cecyvallejos" id="412" />
+      <edge source="cecyvallejos" target="gabrielalpp" id="413" />
+      <edge source="ivangarciamayer" target="elcomercio_peru" id="414" />
+      <edge source="ivangarciamayer" target="larepublica_pe" id="415" />
+      <edge source="mirelinavarro" target="diariocorreo" id="416" />
+      <edge source="mirelinavarro" target="DiarioElPeruano" id="417" />
+      <edge source="mirelinavarro" target="elcomercio_peru" id="418" />
+      <edge source="mirelinavarro" target="larepublica_pe" id="419" />
+      <edge source="mirelinavarro" target="peru21noticias" id="420" />
+      <edge source="mirelinavarro" target="noticiAmerica" id="421" />
+      <edge source="mirelinavarro" target="Latina_Noticias" id="422" />
+      <edge source="mirelinavarro" target="atvmasnoticias" id="423" />
+      <edge source="mirelinavarro" target="Agencia_Andina" id="424" />
+      <edge source="mirelinavarro" target="Publimetrope" id="425" />
+      <edge source="julitos67636797" target="JulianaOxenford" id="426" />
+      <edge source="kurtnolte" target="kurtnolte" id="427" />
+      <edge source="kurtnolte" target="cezarvonfotos" id="428" />
+      <edge source="kurtnolte" target="AFPespanol" id="429" />
+      <edge source="sarracenorafael" target="elcomercio_peru" id="430" />
+      <edge source="sarracenorafael" target="peru21noticias" id="431" />
+      <edge source="ellenmsullivan" target="ellenmsullivan" id="432" />
+      <edge source="ellenmsullivan" target="realDonaldTrump" id="433" />
+      <edge source="mayraormea" target="Cuarto_Poder" id="434" />
+      <edge source="catafur" target="sincerelycatish" id="435" />
+      <edge source="luisin67" target="luisin67" id="436" />
+      <edge source="luisin67" target="victorzamora" id="437" />
+      <edge source="elcurul" target="elcurul" id="438" />
+      <edge source="elcurul" target="TubinoCarlos" id="439" />
+      <edge source="elcurul" target="canalN_" id="440" />
+      <edge source="elcurul" target="malditaternura" id="441" />
+      <edge source="rubenhachedrums" target="rubenhachedrums" id="442" />
+      <edge source="rubenhachedrums" target="PoliciaPeru" id="443" />
+      <edge source="rubenhachedrums" target="MininterPeru" id="444" />
+      <edge source="lichiferrr" target="lichiferrr" id="445" />
+      <edge source="lichiferrr" target="victorzamora" id="446" />
+      <edge source="rmezas" target="FiscaliaPeru" id="447" />
+      <edge source="rmezas" target="ContraloriaPeru" id="448" />
+      <edge source="rmezas" target="pcmperu" id="449" />
+      <edge source="alvaromns" target="alvaromns" id="450" />
+      <edge source="edinsalvadorpa2" target="Minsa_Peru" id="451" />
+      <edge source="edinsalvadorpa2" target="fapperu" id="452" />
+      <edge source="danny_elgarri" target="danny_elgarri" id="453" />
+      <edge source="pablojesusnazar" target="pablojesusnazar" id="454" />
+      <edge source="pablojesusnazar" target="SputnikMundo" id="455" />
+      <edge source="miliarellano" target="reporteropro" id="456" />
+      <edge source="miliarellano" target="victorzamora" id="457" />
+      <edge source="bluetransporte" target="bluetransporte" id="458" />
+      <edge source="bluetransporte" target="KarinaNovoaL" id="459" />
+      <edge source="bluetransporte" target="exitosape" id="460" />
+      <edge source="horna_olga" target="horna_olga" id="461" />
+      <edge source="horna_olga" target="mabel_huertas" id="462" />
+      <edge source="horna_olga" target="RPPNoticias" id="463" />
+      <edge source="horna_olga" target="MilagrosLeivaG" id="464" />
+      <edge source="calin_oficial" target="presidenciaperu" id="465" />
+      <edge source="calin_oficial" target="MartinVizcarraC" id="466" />
+      <edge source="calin_oficial" target="VicAZeballos" id="467" />
+      <edge source="calin_oficial" target="pcmperu" id="468" />
+      <edge source="jmedigut" target="jmedigut" id="469" />
+      <edge source="jmedigut" target="AdrianzenEduard" id="470" />
+      <edge source="jmedigut" target="EsSaludPeru" id="471" />
+      <edge source="chelerofiel" target="chelerofiel" id="472" />
+      <edge source="chelerofiel" target="magalyperu" id="473" />
+      <edge source="sulkafi" target="sulkafi" id="474" />
+      <edge source="sulkafi" target="Shey2403" id="475" />
+      <edge source="xtianmanco" target="xtianmanco" id="476" />
+      <edge source="xtianmanco" target="congresoperu" id="477" />
+      <edge source="perlaberrios" target="perlaberrios" id="478" />
+      <edge source="perlaberrios" target="minsa" id="479" />
+      <edge source="perlaberrios" target="EsSaludPeru" id="480" />
+      <edge source="diarioelperuano" target="DiarioElPeruano" id="481" />
+      <edge source="diarioelperuano" target="MINPRODUCCION" id="482" />
+      <edge source="diarioelperuano" target="pcmperu" id="483" />
+      <edge source="cecolcese" target="Minsa_Peru" id="484" />
+      <edge source="cecolcese" target="Agencia_Andina" id="485" />
+      <edge source="cecolcese" target="noticias_tvperu" id="486" />
+      <edge source="cecolcese" target="DiarioElPeruano" id="487" />
+      <edge source="cecolcese" target="RadioNacionalFM" id="488" />
+      <edge source="gvillasis" target="gvillasis" id="489" />
+      <edge source="gvillasis" target="FioreMolinelli" id="490" />
+      <edge source="javichoal" target="javichoal" id="491" />
+      <edge source="javichoal" target="Latina_pe" id="492" />
+      <edge source="agencia_andina" target="Agencia_Andina" id="493" />
+      <edge source="agencia_andina" target="Minsa_Peru" id="494" />
+      <edge source="agencia_andina" target="EsSaludPeru" id="495" />
+      <edge source="agencia_andina" target="MINPRODUCCION" id="496" />
+      <edge source="jpmadrid1" target="YouTube" id="497" />
+      <edge source="0sa_caperuza" target="0sa_caperuza" id="498" />
+      <edge source="0sa_caperuza" target="JulianaOxenford" id="499" />
+      <edge source="0sa_caperuza" target="magalyperu" id="500" />
+      <edge source="0sa_caperuza" target="rmapalacios" id="501" />
+      <edge source="0sa_caperuza" target="atvpe" id="502" />
+      <edge source="0sa_caperuza" target="DeltaMdelta" id="503" />
+      <edge source="tecnoycienciaec" target="Minsa_Peru" id="504" />
+      <edge source="tecnoycienciaec" target="CMP_PERU" id="505" />
+      <edge source="tecnoycienciaec" target="EsSaludPeru" id="506" />
+      <edge source="crisilcu1" target="crisilcu1" id="507" />
+      <edge source="joaobernuy" target="Minsa_Peru" id="508" />
+      <edge source="joaobernuy" target="RPPNoticias" id="509" />
+      <edge source="joaobernuy" target="victorzamora" id="510" />
+      <edge source="joaobernuy" target="presidenciaperu" id="511" />
+      <edge source="joaobernuy" target="MartinVizcarraC" id="512" />
+      <edge source="larepublica_pe" target="larepublica_pe" id="513" />
+      <edge source="silvanamirella" target="atvpe" id="514" />
+      <edge source="rmrojas24" target="rmrojas24" id="515" />
+      <edge source="rmrojas24" target="JulianaOxenford" id="516" />
+      <edge source="hernanismo" target="hernanismo" id="517" />
+      <edge source="hernanismo" target="Minsa_Peru" id="518" />
+      <edge source="hernanismo" target="CMP_PERU" id="519" />
+      <edge source="hernanismo" target="MindefPeru" id="520" />
+      <edge source="hernanismo" target="MartinVizcarraC" id="521" />
+      <edge source="hernanismo" target="victorzamora" id="522" />
+      <edge source="hernanismo" target="FioreMolinelli" id="523" />
+      <edge source="dannixramirezs1" target="pcmperu" id="524" />
+      <edge source="dannixramirezs1" target="presidenciaperu" id="525" />
+      <edge source="dannixramirezs1" target="Agencia_Andina" id="526" />
+      <edge source="dannixramirezs1" target="elcomercio_peru" id="527" />
+      <edge source="dannixramirezs1" target="RPPNoticias" id="528" />
+      <edge source="dannixramirezs1" target="canalN_" id="529" />
+      <edge source="dannixramirezs1" target="larepublica_pe" id="530" />
+      <edge source="dannixramirezs1" target="exitosape" id="531" />
+      <edge source="dannixramirezs1" target="atv_noticias" id="532" />
+      <edge source="dannixramirezs1" target="Latina_Noticias" id="533" />
+      <edge source="dannixramirezs1" target="Gestionpe" id="534" />
+      <edge source="luroel" target="luroel" id="535" />
+      <edge source="verdesrosas" target="verdesrosas" id="536" />
+      <edge source="verdesrosas" target="MartinVizcarraC" id="537" />
+      <edge source="manuelespejor" target="manuelespejor" id="538" />
+      <edge source="manuelespejor" target="gabrielalpp" id="539" />
+      <edge source="atvmasnoticias" target="atvmasnoticias" id="540" />
+      <edge source="karinanovoal" target="KarinaNovoaL" id="541" />
+      <edge source="karinanovoal" target="PanamericanaTV" id="542" />
+      <edge source="karinanovoal" target="exitosape" id="543" />
+      <edge source="claudio40528769" target="claudio40528769" id="544" />
+      <edge source="claudio40528769" target="victorzamora" id="545" />
+      <edge source="pcruzaleguijohn" target="pcruzaleguijohn" id="546" />
+      <edge source="silviatoledov" target="silviatoledov" id="547" />
+      <edge source="silviatoledov" target="elcomercio_peru" id="548" />
+      <edge source="josewvilca" target="alvarosarco" id="549" />
+      <edge source="zosimar57" target="zosimar57" id="550" />
+      <edge source="zosimar57" target="PanamericanaTV" id="551" />
+      <edge source="15_07_53_max" target="15_07_53_max" id="552" />
+      <edge source="15_07_53_max" target="FioreMolinelli" id="553" />
+      <edge source="15_07_53_max" target="EsSaludPeru" id="554" />
+      <edge source="15_07_53_max" target="canalN_" id="555" />
+      <edge source="15_07_53_max" target="RadioNacionalFM" id="556" />
+      <edge source="15_07_53_max" target="Agencia_Andina" id="557" />
+      <edge source="15_07_53_max" target="elcomercio_peru" id="558" />
+      <edge source="15_07_53_max" target="DiarioElPeruano" id="559" />
+      <edge source="15_07_53_max" target="noticias_tvperu" id="560" />
+      <edge source="15_07_53_max" target="atvmasnoticias" id="561" />
+      <edge source="15_07_53_max" target="exitosape" id="562" />
+      <edge source="15_07_53_max" target="noticiAmerica" id="563" />
+      <edge source="itsllini" target="ItsLlini" id="564" />
+      <edge source="itsllini" target="Minsa_Peru" id="565" />
+      <edge source="itsllini" target="EsSaludPeru" id="566" />
+      <edge source="paulreategui_27" target="MartinVizcarraC" id="567" />
+      <edge source="paulreategui_27" target="DeltaMdelta" id="568" />
+      <edge source="paulreategui_27" target="RPPNoticias" id="569" />
+      <edge source="paulreategui_27" target="Minsa_Peru" id="570" />
+      <edge source="paulreategui_27" target="DanielUrresti1" id="571" />
+      <edge source="unpocodenada1" target="unpocodenada1" id="572" />
+      <edge source="unpocodenada1" target="JulianaOxenford" id="573" />
+      <edge source="abakus2403" target="abakus2403" id="574" />
+      <edge source="abakus2403" target="JulianaOxenford" id="575" />
+      <edge source="gipsi2010" target="gipsi2010" id="576" />
+      <edge source="gipsi2010" target="alvarosarco" id="577" />
+      <edge source="meroca65" target="meroca65" id="578" />
+      <edge source="meroca65" target="PatyDonayre" id="579" />
+      <edge source="lcse16" target="lcse16" id="580" />
+      <edge source="lcse16" target="Minsa_Peru" id="581" />
+      <edge source="lcse16" target="victorzamora" id="582" />
+      <edge source="lcse16" target="Ojo_Publico" id="583" />
+      <edge source="lcse16" target="rmapalacios" id="584" />
+      <edge source="lcse16" target="JulianaOxenford" id="585" />
+      <edge source="lcse16" target="MininterPeru" id="586" />
+      <edge source="lcse16" target="MimpPeru" id="587" />
+      <edge source="kikesitov67" target="kikesitov67" id="588" />
+      <edge source="kikesitov67" target="Minsa_Peru" id="589" />
+      <edge source="kikesitov67" target="RPPNoticias" id="590" />
+      <edge source="juancarlosdelag" target="MartinVizcarraC" id="591" />
+      <edge source="juancarlosdelag" target="Minsa_Peru" id="592" />
+      <edge source="pedrotf" target="Shey2403" id="593" />
+      <edge source="bicebenvenuto" target="gvillasis" id="594" />
+      <edge source="brufer8" target="brufer8" id="595" />
+      <edge source="josepaulprensa" target="josepaulprensa" id="596" />
+      <edge source="tafurpeter" target="PBODigital" id="597" />
+      <edge source="tafurpeter" target="ExpresoPeru" id="598" />
+      <edge source="fredyfcg" target="fredyfcg" id="599" />
+      <edge source="fredyfcg" target="JaimeChincha" id="600" />
+      <edge source="fredyfcg" target="MidisPeru" id="601" />
+      <edge source="josebarbaran3" target="JulianaOxenford" id="602" />
+      <edge source="josebarbaran3" target="atvpe" id="603" />
+      <edge source="josebarbaran3" target="VeroLinaresC" id="604" />
+      <edge source="josebarbaran3" target="EFEnoticias" id="605" />
+      <edge source="edwincabreraar1" target="Ojo_Publico" id="606" />
+      <edge source="edwincabreraar1" target="PoliciaPeru" id="607" />
+      <edge source="edwincabreraar1" target="RPPNoticias" id="608" />
+      <edge source="edwincabreraar1" target="MininterPeru" id="609" />
+      <edge source="edwincabreraar1" target="Minsa_Peru" id="610" />
+      <edge source="edwincabreraar1" target="Agencia_Andina" id="611" />
+      <edge source="djocovich2016" target="djocovich2016" id="612" />
+      <edge source="djocovich2016" target="FioreMolinelli" id="613" />
+      <edge source="djocovich2016" target="DrPalaciosCeli" id="614" />
+      <edge source="djocovich2016" target="MartinVizcarraC" id="615" />
+      <edge source="djocovich2016" target="maguina_ciro" id="616" />
+      <edge source="djocovich2016" target="CMP_PERU" id="617" />
+      <edge source="reporteropro" target="reporteropro" id="618" />
+      <edge source="salitasin" target="CMP_PERU" id="619" />
+      <edge source="salitasin" target="Minsa_Peru" id="620" />
+      <edge source="salitasin" target="SuSaludPeru" id="621" />
+      <edge source="salitasin" target="exitosape" id="622" />
+      <edge source="salitasin" target="RPPNoticias" id="623" />
+      <edge source="salitasin" target="EsSaludPeru" id="624" />
+      <edge source="jessjessrom" target="JulianaOxenford" id="625" />
+      <edge source="jessjessrom" target="atvpe" id="626" />
+      <edge source="f_bardales" target="f_bardales" id="627" />
+      <edge source="cnddhh" target="cnddhh" id="628" />
+      <edge source="cnddhh" target="Minsa_Peru" id="629" />
+      <edge source="iraddios" target="iraddios" id="630" />
+      <edge source="iraddios" target="derojascpkdoor" id="631" />
+      <edge source="iraddios" target="AdrianzenEduard" id="632" />
+      <edge source="iraddios" target="ocram" id="633" />
+      <edge source="antirojo8" target="JBCPERU" id="634" />
+      <edge source="walbugi" target="walbugi" id="635" />
+      <edge source="walbugi" target="larepublica_pe" id="636" />
+      <edge source="4610885" target="4610885" id="637" />
+      <edge source="4610885" target="rmapalacios" id="638" />
+      <edge source="4610885" target="JulianaOxenford" id="639" />
+      <edge source="4610885" target="RPPNoticias" id="640" />
+      <edge source="4610885" target="Cuarto_Poder" id="641" />
+      <edge source="brokerobertito" target="brokerobertito" id="642" />
+      <edge source="brokerobertito" target="elcomercio_peru" id="643" />
+      <edge source="chechoen40tena" target="chechoen40tena" id="644" />
+      <edge source="chechoen40tena" target="noticiAmerica" id="645" />
+      <edge source="hildread" target="EsSaludPeru" id="646" />
+      <edge source="hildread" target="Minsa_Peru" id="647" />
+      <edge source="biodiversityge1" target="biodiversityge1" id="648" />
+      <edge source="nanyluz" target="nanyluz" id="649" />
+      <edge source="nanyluz" target="malditaternura" id="650" />
+      <edge source="nanyluz" target="FioreMolinelli" id="651" />
+      <edge source="nanyluz" target="RPPNoticias" id="652" />
+      <edge source="nanyluz" target="atvpe" id="653" />
+      <edge source="nanyluz" target="canalN_" id="654" />
+      <edge source="nanyluz" target="victorzamora" id="655" />
+      <edge source="nanyluz" target="MilagrosLeivaG" id="656" />
+      <edge source="nanyluz" target="esquinabaja" id="657" />
+      <edge source="nanyluz" target="DeltaMdelta" id="658" />
+      <edge source="nanyluz" target="JulianaOxenford" id="659" />
+      <edge source="naval_peru" target="naval_peru" id="660" />
+      <edge source="naval_peru" target="Minsa_Peru" id="661" />
+      <edge source="raborg17" target="raborg17" id="662" />
+      <edge source="raborg17" target="Latina_Noticias" id="663" />
+      <edge source="ricso777" target="ricso777" id="664" />
+      <edge source="xander_u" target="Minsa_Peru" id="665" />
+      <edge source="xander_u" target="RPPNoticias" id="666" />
+      <edge source="xander_u" target="Latina_pe" id="667" />
+      <edge source="xander_u" target="larepublica_pe" id="668" />
+      <edge source="xander_u" target="elcomercio_peru" id="669" />
+      <edge source="xander_u" target="magalyperu" id="670" />
+      <edge source="xander_u" target="atvpe" id="671" />
+      <edge source="xander_u" target="atv_noticias" id="672" />
+      <edge source="xander_u" target="canalN_" id="673" />
+      <edge source="xander_u" target="PanamericanaTV" id="674" />
+      <edge source="xander_u" target="sigridbazan" id="675" />
+      <edge source="xander_u" target="JulianaOxenford" id="676" />
+      <edge source="xander_u" target="MilagrosLeivaG" id="677" />
+      <edge source="xander_u" target="DeltaMdelta" id="678" />
+      <edge source="pcccvv" target="pcccvv" id="679" />
+      <edge source="pcccvv" target="victorzamora" id="680" />
+      <edge source="peru21noticias" target="peru21noticias" id="681" />
+      <edge source="tonygstark" target="RPPNoticias" id="682" />
+      <edge source="minproduccion" target="MINPRODUCCION" id="683" />
+      <edge source="minproduccion" target="Rocio_BarriosAl" id="684" />
+      <edge source="minproduccion" target="exitosape" id="685" />
+      <edge source="fernandomcloret" target="fernandomcloret" id="686" />
+      <edge source="fernandomcloret" target="FioreMolinelli" id="687" />
+      <edge source="chicafuego41" target="Minsa_Peru" id="688" />
+      <edge source="chicafuego41" target="Agencia_Andina" id="689" />
+      <edge source="chicafuego41" target="DiarioElPeruano" id="690" />
+      <edge source="chicafuego41" target="noticias_tvperu" id="691" />
+      <edge source="chicafuego41" target="RadioNacionalFM" id="692" />
+      <edge source="rogergo58952025" target="DrPalaciosCeli" id="693" />
+      <edge source="rogergo58952025" target="victorzamora" id="694" />
+      <edge source="quiquefloresp" target="quiquefloresp" id="695" />
+      <edge source="quiquefloresp" target="MartinVizcarraC" id="696" />
+      <edge source="quiquefloresp" target="France24_es" id="697" />
+      <edge source="gonzalo_rdll" target="gonzalo_rdll" id="698" />
+      <edge source="gonzalo_rdll" target="ensustrece" id="699" />
+      <edge source="maratuech61" target="maratuech61" id="700" />
+      <edge source="maratuech61" target="MartinVizcarraC" id="701" />
+      <edge source="maratuech61" target="victorzamora" id="702" />
+      <edge source="josejibaja7" target="Minsa_Peru" id="703" />
+      <edge source="josejibaja7" target="presidenciaperu" id="704" />
+      <edge source="alanxicoch" target="alanxicoch" id="705" />
+      <edge source="exitosape" target="exitosape" id="706" />
+      <edge source="ampiro1978" target="ampiro1978" id="707" />
+      <edge source="ampiro1978" target="pcmperu" id="708" />
+      <edge source="ampiro1978" target="VicAZeballos" id="709" />
+      <edge source="ampiro1978" target="presidenciaperu" id="710" />
+      <edge source="ampiro1978" target="MininterPeru" id="711" />
+      <edge source="ampiro1978" target="MimpPeru" id="712" />
+      <edge source="ampiro1978" target="Minsa_Peru" id="713" />
+      <edge source="ampiro1978" target="SuSaludPeru" id="714" />
+      <edge source="ampiro1978" target="Agencia_Andina" id="715" />
+      <edge source="ampiro1978" target="RPPNoticias" id="716" />
+      <edge source="ampiro1978" target="canalN_" id="717" />
+      <edge source="itzadesign" target="malditaternura" id="718" />
+      <edge source="grovervas" target="grovervas" id="719" />
+      <edge source="grovervas" target="JulianaOxenford" id="720" />
+      <edge source="grovervas" target="Latina_Noticias" id="721" />
+      <edge source="grovervas" target="noticiAmerica" id="722" />
+      <edge source="grovervas" target="Minsa_Peru" id="723" />
+      <edge source="grovervas" target="MartinVizcarraC" id="724" />
+      <edge source="monikpulido" target="monikpulido" id="725" />
+      <edge source="boichot" target="boichot" id="726" />
+      <edge source="docjrojas" target="docjrojas" id="727" />
+      <edge source="docjrojas" target="esquinabaja" id="728" />
+      <edge source="marcomis23" target="marcomis23" id="729" />
+      <edge source="marcomis23" target="suselparedes" id="730" />
+      <edge source="marcomis23" target="Minsa_Peru" id="731" />
+      <edge source="marcomis23" target="MartinVizcarraC" id="732" />
+      <edge source="marcomis23" target="pcmperu" id="733" />
+      <edge source="marcomis23" target="magalyperu" id="734" />
+      <edge source="marrog2301" target="marrog2301" id="735" />
+      <edge source="marrog2301" target="Minsa_Peru" id="736" />
+      <edge source="marrog2301" target="EsSaludPeru" id="737" />
+      <edge source="marrog2301" target="fapperu" id="738" />
+      <edge source="marrog2301" target="naval_peru" id="739" />
+      <edge source="sergiobucks93" target="sergiobucks93" id="740" />
+      <edge source="sergiobucks93" target="FioreMolinelli" id="741" />
+      <edge source="miguel04994478" target="DanielUrresti1" id="742" />
+      <edge source="miguel04994478" target="MartinVizcarraC" id="743" />
+      <edge source="miguel04994478" target="PanamericanaTV" id="744" />
+      <edge source="abraham88152436" target="victorzamora" id="745" />
+      <edge source="abraham88152436" target="DeltaMdelta" id="746" />
+      <edge source="josebahamondess" target="Latina_Noticias" id="747" />
+      <edge source="josebahamondess" target="Minsa_Peru" id="748" />
+      <edge source="josebahamondess" target="IDL_R" id="749" />
+      <edge source="nikolai98636155" target="nikolai98636155" id="750" />
+      <edge source="rogerrios1109" target="rogerrios1109" id="751" />
+      <edge source="rogerrios1109" target="PatyDonayre" id="752" />
+      <edge source="rogerrios1109" target="victorzamora" id="753" />
+      <edge source="rogerrios1109" target="Minsa_Peru" id="754" />
+      <edge source="rogerrios1109" target="presidenciaperu" id="755" />
+      <edge source="rogerrios1109" target="PoliciaPeru" id="756" />
+      <edge source="milenadovil" target="Minsa_Peru" id="757" />
+      <edge source="milenadovil" target="MartinVizcarraC" id="758" />
+      <edge source="milenadovil" target="KikeBravoPrado" id="759" />
+      <edge source="milenadovil" target="willaxtv" id="760" />
+      <edge source="mocherovasquez" target="mocherovasquez" id="761" />
+      <edge source="mocherovasquez" target="elcomercio_peru" id="762" />
+      <edge source="cixrocio" target="cixrocio" id="763" />
+      <edge source="cixrocio" target="diariocorreo" id="764" />
+      <edge source="christiangonco" target="christiangonco" id="765" />
+      <edge source="christiangonco" target="pavese" id="766" />
+      <edge source="christiangonco" target="victorzamora" id="767" />
+      <edge source="christiangonco" target="Minsa_Peru" id="768" />
+      <edge source="christiangonco" target="IndiraHuilca" id="769" />
+      <edge source="christiangonco" target="larepublica_pe" id="770" />
+      <edge source="christiangonco" target="pcmperu" id="771" />
+      <edge source="christiangonco" target="rmapalacios" id="772" />
+      <edge source="christiangonco" target="JulianaOxenford" id="773" />
+      <edge source="engrare" target="engrare" id="774" />
+      <edge source="tcainaru" target="tcainaru" id="775" />
+      <edge source="tcainaru" target="Shareaholic" id="776" />
+      <edge source="andresveracordo" target="andresveracordo" id="777" />
+      <edge source="andresveracordo" target="elregionalpiura" id="778" />
+      <edge source="yachay_dc" target="yachay_dc" id="779" />
+      <edge source="fetrasinarp" target="fetrasinarp" id="780" />
+      <edge source="changeugenio" target="PanamericanaTV" id="781" />
+      <edge source="changeugenio" target="noticiAmerica" id="782" />
+      <edge source="cesarri89010845" target="maxchavezm" id="783" />
+      <edge source="cesarri89010845" target="BancadaAPP" id="784" />
+      <edge source="dictadura19" target="PanamericanaTV" id="785" />
+      <edge source="dictadura19" target="TatianaAstengoB" id="786" />
+      <edge source="ninaleonorvp" target="ninaleonorvp" id="787" />
+      <edge source="ninaleonorvp" target="CMP_PERU" id="788" />
+      <edge source="ninaleonorvp" target="noticiAmerica" id="789" />
+      <edge source="ninaleonorvp" target="noticias_tvperu" id="790" />
+      <edge source="ninaleonorvp" target="elcomercio_peru" id="791" />
+      <edge source="ninaleonorvp" target="ExpresoPeru" id="792" />
+      <edge source="joannazc" target="joannazc" id="793" />
+      <edge source="joannazc" target="malditaternura" id="794" />
+      <edge source="joannazc" target="JulianaOxenford" id="795" />
+      <edge source="joannazc" target="MilagrosLeivaG" id="796" />
+      <edge source="joannazc" target="PBODigital" id="797" />
+      <edge source="joannazc" target="KikeBravoPrado" id="798" />
+      <edge source="joannazc" target="JBCPERU" id="799" />
+      <edge source="flytodreamland" target="flytodreamland" id="800" />
+      <edge source="flytodreamland" target="Minsa_Peru" id="801" />
+      <edge source="saludmariano" target="noticias_tvperu" id="802" />
+      <edge source="saludmariano" target="PoliciaPeru" id="803" />
+      <edge source="saludmariano" target="rmapalacios" id="804" />
+      <edge source="arthurcaipo" target="arthurcaipo" id="805" />
+      <edge source="arthurcaipo" target="pcmperu" id="806" />
+      <edge source="roosgarvi" target="roosgarvi" id="807" />
+      <edge source="roosgarvi" target="AFPespanol" id="808" />
+      <edge source="roosgarvi" target="presidenciaperu" id="809" />
+      <edge source="roosgarvi" target="congresoperu" id="810" />
+      <edge source="roosgarvi" target="Minsa_Peru" id="811" />
+      <edge source="vasquezmattos" target="JulianaOxenford" id="812" />
+      <edge source="vasquezmattos" target="JaimeChincha" id="813" />
+      <edge source="vasquezmattos" target="MartinVizcarraC" id="814" />
+      <edge source="vasquezmattos" target="Latina_Noticias" id="815" />
+      <edge source="derojascpkdoor" target="derojascpkdoor" id="816" />
+      <edge source="derojascpkdoor" target="EsSaludPeru" id="817" />
+      <edge source="derojascpkdoor" target="FioreMolinelli" id="818" />
+      <edge source="derojascpkdoor" target="ocram" id="819" />
+      <edge source="franktrovadicto" target="franktrovadicto" id="820" />
+      <edge source="franktrovadicto" target="victorzamora" id="821" />
+      <edge source="a_quitain" target="a_quitain" id="822" />
+      <edge source="a_quitain" target="Observateurs" id="823" />
+      <edge source="araujo_jeannine" target="araujo_jeannine" id="824" />
+      <edge source="hansel_ortega01" target="MartinVizcarraC" id="825" />
+      <edge source="luccin1984" target="luccin1984" id="826" />
+      <edge source="luccin1984" target="victorzamora" id="827" />
+      <edge source="vonmaack" target="victorzamora" id="828" />
+      <edge source="vonmaack" target="MartinVizcarraC" id="829" />
+      <edge source="vonmaack" target="Minsa_Peru" id="830" />
+      <edge source="vonmaack" target="pcmperu" id="831" />
+      <edge source="vonmaack" target="noticiAmerica" id="832" />
+      <edge source="vonmaack" target="canalN_" id="833" />
+      <edge source="marian_peru" target="marian_peru" id="834" />
+      <edge source="marian_peru" target="PanoramaPTV" id="835" />
+      <edge source="diarioojo" target="diarioojo" id="836" />
+      <edge source="illaryverdad" target="DeltaMdelta" id="837" />
+      <edge source="illaryverdad" target="Latina_Noticias" id="838" />
+      <edge source="velagrecia921" target="velagrecia921" id="839" />
+      <edge source="velagrecia921" target="victorzamora" id="840" />
+      <edge source="ucinoticias_pe" target="ucinoticias_pe" id="841" />
+      <edge source="josantrp" target="josantrp" id="842" />
+      <edge source="josantrp" target="SolCn" id="843" />
+      <edge source="robertnald" target="robertnald" id="844" />
+      <edge source="robertnald" target="rmapalacios" id="845" />
+      <edge source="mars___27" target="Capital967" id="846" />
+      <edge source="destapestv" target="MartinVizcarraC" id="847" />
+      <edge source="destapestv" target="Minsa_Peru" id="848" />
+      <edge source="jobanavr" target="jobanavr" id="849" />
+      <edge source="jobanavr" target="patriciagamarra" id="850" />
+      <edge source="aunhaytiempito" target="hernanismo" id="851" />
+      <edge source="aunhaytiempito" target="CMP_PERU" id="852" />
+      <edge source="betoamenero" target="betoamenero" id="853" />
+      <edge source="betoamenero" target="elcomercio_peru" id="854" />
+      <edge source="jazminmestanza" target="MilagrosLeivaG" id="855" />
+      <edge source="jazminmestanza" target="mabel_huertas" id="856" />
+      <edge source="jazminmestanza" target="JulianaOxenford" id="857" />
+      <edge source="elregionalpiura" target="elregionalpiura" id="858" />
+      <edge source="jonas55098617" target="Ojo_Publico" id="859" />
+      <edge source="jonas55098617" target="EsSaludPeru" id="860" />
+      <edge source="jonas55098617" target="Shey2403" id="861" />
+      <edge source="manarellidiego" target="manarellidiego" id="862" />
+      <edge source="manarellidiego" target="3001rafa" id="863" />
+      <edge source="manarellidiego" target="JulianaOxenford" id="864" />
+      <edge source="manarellidiego" target="DeltaMdelta" id="865" />
+      <edge source="manarellidiego" target="sigridbazan" id="866" />
+      <edge source="manarellidiego" target="MartinVizcarraC" id="867" />
+      <edge source="marialegare29" target="marialegare29" id="868" />
+      <edge source="marialegare29" target="victorzamora" id="869" />
+      <edge source="fgdonado" target="fgdonado" id="870" />
+      <edge source="avasquezln" target="avasquezln" id="871" />
+      <edge source="avasquezln" target="France24_es" id="872" />
+      <edge source="rolmonpa" target="Ojo_Publico" id="873" />
+      <edge source="rolmonpa" target="Minsa_Peru" id="874" />
+      <edge source="ernesto1276" target="ernesto1276" id="875" />
+      <edge source="ernesto1276" target="MartinVizcarraC" id="876" />
+      <edge source="julie_ofwolves" target="julie_ofwolves" id="877" />
+      <edge source="desdeurbania" target="desdeurbania" id="878" />
+      <edge source="ricardonexpalma" target="ricardonexpalma" id="879" />
+      <edge source="ricardonexpalma" target="Capital967" id="880" />
+      <edge source="juanarroyoperu" target="juanarroyoperu" id="881" />
+      <edge source="elcomercio_peru" target="elcomercio_peru" id="882" />
+      <edge source="elcomercio_peru" target="Gpereyrac" id="883" />
+      <edge source="teaguaaire" target="teaguaaire" id="884" />
+      <edge source="mdanielcarbajal" target="MDanielCarbajal" id="885" />
+      <edge source="mdanielcarbajal" target="elcomercio_peru" id="886" />
+      <edge source="abraham19980403" target="Minsa_Peru" id="887" />
+      <edge source="abraham19980403" target="RadioNacionalFM" id="888" />
+      <edge source="abraham19980403" target="Agencia_Andina" id="889" />
+      <edge source="abraham19980403" target="DiarioElPeruano" id="890" />
+      <edge source="abraham19980403" target="noticias_tvperu" id="891" />
+      <edge source="lmcantonio" target="FioreMolinelli" id="892" />
+      <edge source="lmcantonio" target="malditaternura" id="893" />
+      <edge source="lmcantonio" target="EsSaludPeru" id="894" />
+      <edge source="lmcantonio" target="fapperu" id="895" />
+      <edge source="lmcantonio" target="noticias_tvperu" id="896" />
+      <edge source="lmcantonio" target="atvmasnoticias" id="897" />
+      <edge source="lmcantonio" target="Agencia_Andina" id="898" />
+      <edge source="lmcantonio" target="RadioNacionalFM" id="899" />
+      <edge source="lmcantonio" target="atv_noticias" id="900" />
+      <edge source="lmcantonio" target="elcomercio_peru" id="901" />
+      <edge source="lmcantonio" target="DiarioElPeruano" id="902" />
+      <edge source="lmcantonio" target="canalN_" id="903" />
+      <edge source="lmcantonio" target="exitosape" id="904" />
+      <edge source="lmcantonio" target="larepublica_pe" id="905" />
+      <edge source="victorzamora" target="victorzamora" id="906" />
+      <edge source="victorzamora" target="MartinVizcarraC" id="907" />
+      <edge source="victorzamora" target="VicAZeballos" id="908" />
+      <edge source="pintora67" target="pintora67" id="909" />
+      <edge source="pintora67" target="elcomercio_peru" id="910" />
+      <edge source="pintora67" target="Gpereyrac" id="911" />
+      <edge source="feemar22" target="feemar22" id="912" />
+      <edge source="feemar22" target="ocram" id="913" />
+      <edge source="wilfred02228931" target="abelgilvonio" id="914" />
+      <edge source="wilfred02228931" target="victorzamora" id="915" />
+      <edge source="soyautistayque" target="soyautistayque" id="916" />
+      <edge source="soyautistayque" target="JaimeChincha" id="917" />
+      <edge source="soyautistayque" target="Minsa_Peru" id="918" />
+      <edge source="soyautistayque" target="victorzamora" id="919" />
+      <edge source="soyautistayque" target="ExpresoPeru" id="920" />
+      <edge source="soyautistayque" target="GloriaMonteneg" id="921" />
+      <edge source="soyautistayque" target="JBCPERU" id="922" />
+      <edge source="soyautistayque" target="MindefPeru" id="923" />
+      <edge source="soyautistayque" target="MINPRODUCCION" id="924" />
+      <edge source="soyautistayque" target="Agencia_Andina" id="925" />
+      <edge source="soyautistayque" target="RadioNacionalFM" id="926" />
+      <edge source="soyautistayque" target="DiarioElPeruano" id="927" />
+      <edge source="soyautistayque" target="elcomercio_peru" id="928" />
+      <edge source="soyautistayque" target="peru21noticias" id="929" />
+      <edge source="soyautistayque" target="diariocorreo" id="930" />
+      <edge source="soyautistayque" target="larepublica_pe" id="931" />
+      <edge source="soyautistayque" target="RPPNoticias" id="932" />
+      <edge source="soyautistayque" target="Publimetrope" id="933" />
+      <edge source="soyautistayque" target="canalN_" id="934" />
+      <edge source="soyautistayque" target="esquinabaja" id="935" />
+      <edge source="soyautistayque" target="Latina_Noticias" id="936" />
+      <edge source="soyautistayque" target="noticias_tvperu" id="937" />
+      <edge source="soyautistayque" target="noticiAmerica" id="938" />
+      <edge source="soyautistayque" target="atv_noticias" id="939" />
+      <edge source="soyautistayque" target="DeltaMdelta" id="940" />
+      <edge source="soyautistayque" target="IndiraHuilca" id="941" />
+      <edge source="soyautistayque" target="BancodelaNacion" id="942" />
+      <edge source="soyautistayque" target="PeruNews" id="943" />
+      <edge source="soyautistayque" target="peruenlanoticia" id="944" />
+      <edge source="soyautistayque" target="tromepe" id="945" />
+      <edge source="soyautistayque" target="MimpPeru" id="946" />
+      <edge source="magnoalarcon" target="magnoalarcon" id="947" />
+      <edge source="magnoalarcon" target="noticiAmerica" id="948" />
+      <edge source="acidpear_ale" target="acidpear_ale" id="949" />
+      <edge source="nnguerrero" target="nnguerrero" id="950" />
+      <edge source="delurens" target="delurens" id="951" />
+      <edge source="xa_piri" target="xa_piri" id="952" />
+      <edge source="guiulfoe" target="Shey2403" id="953" />
+      <edge source="raulmvf43" target="raulmvf43" id="954" />
+      <edge source="raulmvf43" target="VeroLinaresC" id="955" />
+      <edge source="raulmvf43" target="EFEnoticias" id="956" />
+      <edge source="digar59" target="digar59" id="957" />
+      <edge source="digar59" target="PatyDonayre" id="958" />
+      <edge source="digar59" target="MartinVizcarraC" id="959" />
+      <edge source="digar59" target="VicAZeballos" id="960" />
+      <edge source="digar59" target="Minsa_Peru" id="961" />
+      <edge source="digar59" target="ContraloriaPeru" id="962" />
+      <edge source="ardash147" target="ardash147" id="963" />
+      <edge source="quintovasquez2" target="GloriaMonteneg" id="964" />
+      <edge source="quintovasquez2" target="CMP_PERU" id="965" />
+      <edge source="quintovasquez2" target="Defensoria_Peru" id="966" />
+      <edge source="quintovasquez2" target="Agencia_Andina" id="967" />
+      <edge source="quintovasquez2" target="peruenlanoticia" id="968" />
+      <edge source="quintovasquez2" target="PeruNews" id="969" />
+      <edge source="quintovasquez2" target="peru21noticias" id="970" />
+      <edge source="quintovasquez2" target="larepublica_pe" id="971" />
+      <edge source="quintovasquez2" target="Minsa_Peru" id="972" />
+      <edge source="ritazelada" target="ritazelada" id="973" />
+      <edge source="ritazelada" target="Latina_pe" id="974" />
+      <edge source="ritazelada" target="perlaberrios" id="975" />
+      <edge source="ritazelada" target="rmapalacios" id="976" />
+      <edge source="ritazelada" target="exitosape" id="977" />
+      <edge source="ritazelada" target="drhuerta" id="978" />
+      <edge source="ritazelada" target="ocram" id="979" />
+      <edge source="ritazelada" target="malditaternura" id="980" />
+      <edge source="ritazelada" target="DeltaMdelta" id="981" />
+      <edge source="ritazelada" target="canalN_" id="982" />
+      <edge source="ritazelada" target="VeroLinaresC" id="983" />
+      <edge source="linanbenitez" target="linanbenitez" id="984" />
+      <edge source="linanbenitez" target="pcmperu" id="985" />
+      <edge source="linanbenitez" target="presidenciaperu" id="986" />
+      <edge source="linanbenitez" target="Minsa_Peru" id="987" />
+      <edge source="linanbenitez" target="MEF_Peru" id="988" />
+      <edge source="linanbenitez" target="MidisPeru" id="989" />
+      <edge source="linanbenitez" target="EsSaludPeru" id="990" />
+      <edge source="linanbenitez" target="Agencia_Andina" id="991" />
+      <edge source="linanbenitez" target="noticias_tvperu" id="992" />
+      <edge source="linanbenitez" target="RadioNacionalFM" id="993" />
+      <edge source="linanbenitez" target="MartinVizcarraC" id="994" />
+      <edge source="linanbenitez" target="FioreMolinelli" id="995" />
+      <edge source="linanbenitez" target="JulianaOxenford" id="996" />
+      <edge source="linanbenitez" target="larepublica_pe" id="997" />
+      <edge source="x100prephoto1" target="x100prephoto1" id="998" />
+      <edge source="x100prephoto1" target="EsSaludPeru" id="999" />
+      <edge source="x100prephoto1" target="Minsa_Peru" id="1000" />
+      <edge source="x100prephoto1" target="FioreMolinelli" id="1001" />
+      <edge source="dickson_23" target="dickson_23" id="1002" />
+      <edge source="dickson_23" target="JulianaOxenford" id="1003" />
+      <edge source="dickson_23" target="atvpe" id="1004" />
+      <edge source="horasmuertas" target="abelgilvonio" id="1005" />
+      <edge source="horasmuertas" target="victorzamora" id="1006" />
+      <edge source="encaladanatalia" target="MartinVizcarraC" id="1007" />
+      <edge source="encaladanatalia" target="Minsa_Peru" id="1008" />
+      <edge source="encaladanatalia" target="noticiAmerica" id="1009" />
+      <edge source="encaladanatalia" target="elcomercio_peru" id="1010" />
+      <edge source="achristiandavid" target="achristiandavid" id="1011" />
+      <edge source="mirtyvas" target="CMP_PERU" id="1012" />
+      <edge source="mirtyvas" target="EsSaludPeru" id="1013" />
+      <edge source="mirtyvas" target="Minsa_Peru" id="1014" />
+      <edge source="josecalleq" target="josecalleq" id="1015" />
+      <edge source="josecalleq" target="SINAMSSOP1" id="1016" />
+      <edge source="josecalleq" target="Defensoria_Peru" id="1017" />
+      <edge source="josecalleq" target="Minsa_Peru" id="1018" />
+      <edge source="josecalleq" target="congresoperu" id="1019" />
+      <edge source="marronisima" target="marronisima" id="1020" />
+      <edge source="marronisima" target="MartinVizcarraC" id="1021" />
+      <edge source="jaime_sandro" target="jaime_sandro" id="1022" />
+      <edge source="jaime_sandro" target="abelgilvonio" id="1023" />
+      <edge source="jaime_sandro" target="Minsa_Peru" id="1024" />
+      <edge source="jaime_sandro" target="canalN_" id="1025" />
+      <edge source="hilwiller" target="hilwiller" id="1026" />
+      <edge source="anvic20" target="presidenciaperu" id="1027" />
+      <edge source="anvic20" target="MartinVizcarraC" id="1028" />
+      <edge source="anvic20" target="Minsa_Peru" id="1029" />
+      <edge source="anvic20" target="JulianaOxenford" id="1030" />
+      <edge source="alberto31408712" target="alberto31408712" id="1031" />
+      <edge source="alberto31408712" target="FioreMolinelli" id="1032" />
+      <edge source="aten07404629" target="aten07404629" id="1033" />
+      <edge source="aten07404629" target="JulianaOxenford" id="1034" />
+      <edge source="perufashionblog" target="perufashionblog" id="1035" />
+      <edge source="fmedinach" target="fmedinach" id="1036" />
+      <edge source="fmedinach" target="derojascpkdoor" id="1037" />
+      <edge source="fmedinach" target="AdrianzenEduard" id="1038" />
+      <edge source="fmedinach" target="victorzamora" id="1039" />
+      <edge source="fmedinach" target="juanarroyoperu" id="1040" />
+      <edge source="tweet_informa" target="tweet_informa" id="1041" />
+      <edge source="tweet_informa" target="EsSaludPeru" id="1042" />
+      <edge source="freddie1170" target="freddie1170" id="1043" />
+      <edge source="freddie1170" target="PanoramaPTV" id="1044" />
+      <edge source="pedssssssss26" target="pedssssssss26" id="1045" />
+      <edge source="amazondas_" target="fgdonado" id="1046" />
+      <edge source="kashamarka" target="kashamarka" id="1047" />
+      <edge source="karlos_blanch" target="karlos_blanch" id="1048" />
+      <edge source="karlos_blanch" target="Minsa_Peru" id="1049" />
+      <edge source="karlos_blanch" target="SuSaludPeru" id="1050" />
+      <edge source="karlos_blanch" target="Defensoria_Peru" id="1051" />
+      <edge source="karlos_blanch" target="MartinVizcarraC" id="1052" />
+      <edge source="soria_annie" target="soria_annie" id="1053" />
+      <edge source="soria_annie" target="JulianaOxenford" id="1054" />
+      <edge source="psalasc" target="psalasc" id="1055" />
+      <edge source="psalasc" target="SINAMSSOP1" id="1056" />
+      <edge source="psalasc" target="victorzamora" id="1057" />
+      <edge source="psalasc" target="Minsa_Peru" id="1058" />
+      <edge source="psalasc" target="EsSaludPeru" id="1059" />
+      <edge source="blackdragon1802" target="blackdragon1802" id="1060" />
+      <edge source="blackdragon1802" target="VicAZeballos" id="1061" />
+      <edge source="hola16654465" target="MartinVizcarraC" id="1062" />
+      <edge source="drgeriatrico" target="gvillasis" id="1063" />
+      <edge source="drgeriatrico" target="FioreMolinelli" id="1064" />
+      <edge source="xuckyba" target="xuckyba" id="1065" />
+      <edge source="xuckyba" target="tromepe" id="1066" />
+      <edge source="sjjohan1" target="presidenciaperu" id="1067" />
+      <edge source="sjjohan1" target="MartinVizcarraC" id="1068" />
+      <edge source="nolita3877" target="nolita3877" id="1069" />
+      <edge source="nolita3877" target="Minsa_Peru" id="1070" />
+      <edge source="primerafuente1" target="primerafuente1" id="1071" />
+      <edge source="erichvc1978" target="erichvc1978" id="1072" />
+      <edge source="erichvc1978" target="MartinVizcarraC" id="1073" />
+      <edge source="marcosa03239902" target="carlosc00268781" id="1074" />
+      <edge source="marcosa03239902" target="CharitoABC" id="1075" />
+      <edge source="marcosa03239902" target="willaxtv" id="1076" />
+      <edge source="hans_carr" target="hans_carr" id="1077" />
+      <edge source="de_verdadero" target="de_verdadero" id="1078" />
+      <edge source="de_verdadero" target="victorzamora" id="1079" />
+      <edge source="prmmsd" target="prmmsd" id="1080" />
+      <edge source="prmmsd" target="JaimeChincha" id="1081" />
+      <edge source="prmmsd" target="rmapalacios" id="1082" />
+      <edge source="prmmsd" target="AdrianzenEduard" id="1083" />
+      <edge source="fanylrv" target="fanylrv" id="1084" />
+      <edge source="fanylrv" target="CMP_PERU" id="1085" />
+      <edge source="fanylrv" target="victorzamora" id="1086" />
+      <edge source="pila1144" target="pila1144" id="1087" />
+      <edge source="pila1144" target="rmapalacios" id="1088" />
+      <edge source="pila1144" target="pcmperu" id="1089" />
+      <edge source="jfowks" target="jfowks" id="1090" />
+      <edge source="jfowks" target="Minsa_Peru" id="1091" />
+      <edge source="jfowks" target="MindefPeru" id="1092" />
+      <edge source="jfowks" target="larepublica_pe" id="1093" />
+      <edge source="marianela2390" target="victorzamora" id="1094" />
+      <edge source="marianela2390" target="JulianaOxenford" id="1095" />
+      <edge source="marianela2390" target="DanielUrresti1" id="1096" />
+      <edge source="marianela2390" target="MartinVizcarraC" id="1097" />
+      <edge source="marianela2390" target="JaimeChincha" id="1098" />
+      <edge source="marianela2390" target="drhuerta" id="1099" />
+      <edge source="marianela2390" target="IndiraHuilca" id="1100" />
+      <edge source="jairmejiaguerr1" target="jairmejiaguerr1" id="1101" />
+      <edge source="jairmejiaguerr1" target="VicAZeballos" id="1102" />
+      <edge source="jairmejiaguerr1" target="victorzamora" id="1103" />
+      <edge source="jairmejiaguerr1" target="pcmperu" id="1104" />
+      <edge source="jairmejiaguerr1" target="Minsa_Peru" id="1105" />
+      <edge source="jairmejiaguerr1" target="MartinVizcarraC" id="1106" />
+      <edge source="jairmejiaguerr1" target="presidenciaperu" id="1107" />
+      <edge source="jairmejiaguerr1" target="JulianaOxenford" id="1108" />
+      <edge source="jairmejiaguerr1" target="DanielUrresti1" id="1109" />
+      <edge source="jairmejiaguerr1" target="larepublica_pe" id="1110" />
+      <edge source="jairmejiaguerr1" target="sigridbazan" id="1111" />
+      <edge source="elmermascaro" target="KikeBravoPrado" id="1112" />
+      <edge source="elmermascaro" target="Minsa_Peru" id="1113" />
+      <edge source="elmermascaro" target="SuSaludPeru" id="1114" />
+      <edge source="elmermascaro" target="BancadaAPP" id="1115" />
+      <edge source="elmermascaro" target="nidiavilchez" id="1116" />
+      <edge source="elmermascaro" target="fapperu" id="1117" />
+      <edge source="peter_roman_" target="noticiAmerica" id="1118" />
+      <edge source="peter_roman_" target="canalN_" id="1119" />
+      <edge source="uhuamaniq" target="uhuamaniq" id="1120" />
+      <edge source="uhuamaniq" target="elcomercio_peru" id="1121" />
+      <edge source="bouurbaki74" target="bouurbaki74" id="1122" />
+      <edge source="bouurbaki74" target="larepublica_pe" id="1123" />
+      <edge source="trovaperu" target="DanielUrresti1" id="1124" />
+      <edge source="elvistq" target="elvistq" id="1125" />
+      <edge source="elvistq" target="mabel_huertas" id="1126" />
+      <edge source="elvistq" target="drhuerta" id="1127" />
+      <edge source="alexmab162" target="alexmab162" id="1128" />
+      <edge source="alexmab162" target="MartinVizcarraC" id="1129" />
+      <edge source="lincolnfr7" target="JulianaOxenford" id="1130" />
+      <edge source="lincolnfr7" target="atvpe" id="1131" />
+      <edge source="javier08920360" target="elcomercio_peru" id="1132" />
+      <edge source="milizadecordova" target="milizadecordova" id="1133" />
+      <edge source="milizadecordova" target="France24_es" id="1134" />
+      <edge source="almestarrivera" target="JulianaOxenford" id="1135" />
+      <edge source="almestarrivera" target="Minsa_Peru" id="1136" />
+      <edge source="almestarrivera" target="EsSaludPeru" id="1137" />
+      <edge source="littlepipedream" target="littlepipedream" id="1138" />
+      <edge source="littlepipedream" target="MidisPeru" id="1139" />
+      <edge source="littlepipedream" target="FabiolaMunozD" id="1140" />
+      <edge source="littlepipedream" target="IndiraHuilca" id="1141" />
+      <edge source="littlepipedream" target="pavese" id="1142" />
+      <edge source="littlepipedream" target="jfowks" id="1143" />
+      <edge source="dorisazores" target="EsSaludPeru" id="1144" />
+      <edge source="dorisazores" target="Minsa_Peru" id="1145" />
+      <edge source="fernandomunioz7" target="fernandomunioz7" id="1146" />
+      <edge source="fernandomunioz7" target="victorzamora" id="1147" />
+      <edge source="fernandomunioz7" target="Minsa_Peru" id="1148" />
+      <edge source="fernandomunioz7" target="Shey2403" id="1149" />
+      <edge source="fernandomunioz7" target="MartinVizcarraC" id="1150" />
+      <edge source="fernandomunioz7" target="pcmperu" id="1151" />
+      <edge source="ollobaluis" target="Capital967" id="1152" />
+      <edge source="ollobaluis" target="maguina_ciro" id="1153" />
+      <edge source="jimmyjoya5" target="Minsa_Peru" id="1154" />
+      <edge source="jimmyjoya5" target="EsSaludPeru" id="1155" />
+      <edge source="jimmyjoya5" target="MartinVizcarraC" id="1156" />
+      <edge source="jimmyjoya5" target="PanoramaPTV" id="1157" />
+      <edge source="tubinocarlos" target="TubinoCarlos" id="1158" />
+      <edge source="tubinocarlos" target="MartinVizcarraC" id="1159" />
+      <edge source="teresalayamari" target="teresalayamari" id="1160" />
+      <edge source="teresalayamari" target="PoliciaPeru" id="1161" />
+      <edge source="policiasperu" target="ExpresoPeru" id="1162" />
+      <edge source="policiasperu" target="RPPNoticias" id="1163" />
+      <edge source="policiasperu" target="elcomercio_peru" id="1164" />
+      <edge source="policiasperu" target="Ojo_Publico" id="1165" />
+      <edge source="policiasperu" target="PoliciaPeru" id="1166" />
+      <edge source="policiasperu" target="Defensoria_Peru" id="1167" />
+      <edge source="policiasperu" target="FiscaliaPeru" id="1168" />
+      <edge source="harryrodrguez14" target="pcmperu" id="1169" />
+      <edge source="harryrodrguez14" target="presidenciaperu" id="1170" />
+      <edge source="harryrodrguez14" target="MindefPeru" id="1171" />
+      <edge source="harryrodrguez14" target="CCFFAA_PERU" id="1172" />
+      <edge source="harryrodrguez14" target="Agencia_Andina" id="1173" />
+      <edge source="harryrodrguez14" target="peru21noticias" id="1174" />
+      <edge source="harryrodrguez14" target="noticias_tvperu" id="1175" />
+      <edge source="harryrodrguez14" target="elcomercio_peru" id="1176" />
+      <edge source="harryrodrguez14" target="larepublica_pe" id="1177" />
+      <edge source="harryrodrguez14" target="RPPNoticias" id="1178" />
+      <edge source="harryrodrguez14" target="exitosape" id="1179" />
+      <edge source="harryrodrguez14" target="fernandomcloret" id="1180" />
+      <edge source="harryrodrguez14" target="Minsa_Peru" id="1181" />
+      <edge source="harryrodrguez14" target="victorzamora" id="1182" />
+      <edge source="harryrodrguez14" target="MartinVizcarraC" id="1183" />
+      <edge source="barbara_fraser" target="Minsa_Peru" id="1184" />
+      <edge source="karuchita_14" target="karuchita_14" id="1185" />
+      <edge source="karuchita_14" target="esquinabaja" id="1186" />
+      <edge source="jenilu7" target="jenilu7" id="1187" />
+      <edge source="jenilu7" target="MartinVizcarraC" id="1188" />
+      <edge source="oliverbardales1" target="victorzamora" id="1189" />
+      <edge source="sjvore" target="sjvore" id="1190" />
+      <edge source="sjvore" target="MartinVizcarraC" id="1191" />
+      <edge source="herardopablo" target="DanielUrresti1" id="1192" />
+      <edge source="herardopablo" target="JulianaOxenford" id="1193" />
+      <edge source="javier16193244" target="javier16193244" id="1194" />
+      <edge source="javier16193244" target="noticiAmerica" id="1195" />
+      <edge source="javier16193244" target="atvmasnoticias" id="1196" />
+      <edge source="javier16193244" target="PanamericanaTV" id="1197" />
+      <edge source="javier16193244" target="Latina_Noticias" id="1198" />
+      <edge source="javier16193244" target="RPPNoticias" id="1199" />
+      <edge source="javier16193244" target="PoliciaPeru" id="1200" />
+      <edge source="ginamelissa8" target="MilagrosLeivaG" id="1201" />
+      <edge source="ginamelissa8" target="MartinVizcarraC" id="1202" />
+      <edge source="ginamelissa8" target="Minsa_Peru" id="1203" />
+      <edge source="braveheart60316" target="braveheart60316" id="1204" />
+      <edge source="nivhjv" target="nivhjv" id="1205" />
+      <edge source="nivhjv" target="Minsa_Peru" id="1206" />
+      <edge source="nivhjv" target="EsSaludPeru" id="1207" />
+      <edge source="nivhjv" target="pcmperu" id="1208" />
+      <edge source="nivhjv" target="MartinVizcarraC" id="1209" />
+      <edge source="nivhjv" target="RPPNoticias" id="1210" />
+      <edge source="nivhjv" target="kikesitov67" id="1211" />
+      <edge source="nivhjv" target="VicAZeballos" id="1212" />
+      <edge source="nivhjv" target="JulianaOxenford" id="1213" />
+      <edge source="nivhjv" target="atvpe" id="1214" />
+      <edge source="nivhjv" target="atv_noticias" id="1215" />
+      <edge source="nivhjv" target="atvmasnoticias" id="1216" />
+      <edge source="nivhjv" target="TubinoCarlos" id="1217" />
+      <edge source="nivhjv" target="FioreMolinelli" id="1218" />
+      <edge source="nivhjv" target="KarinaNovoaL" id="1219" />
+      <edge source="nivhjv" target="exitosape" id="1220" />
+      <edge source="diaregional_hoy" target="diaregional_hoy" id="1221" />
+      <edge source="diaregional_hoy" target="SINAMSSOP1" id="1222" />
+      <edge source="diaregional_hoy" target="victorzamora" id="1223" />
+      <edge source="elmundook" target="peru21noticias" id="1224" />
+      <edge source="esquinabaja" target="esquinabaja" id="1225" />
+      <edge source="jwbartlett92" target="jwbartlett92" id="1226" />
+      <edge source="jwbartlett92" target="yachay_dc" id="1227" />
+      <edge source="jfherrerat" target="jfherrerat" id="1228" />
+      <edge source="jfherrerat" target="JulianaOxenford" id="1229" />
+      <edge source="lymcomunicacion" target="lymcomunicacion" id="1230" />
+      <edge source="lymcomunicacion" target="MartinVizcarraC" id="1231" />
+      <edge source="suselparedes" target="suselparedes" id="1232" />
+      <edge source="essaludperu" target="EsSaludPeru" id="1233" />
+      <edge source="essaludperu" target="FioreMolinelli" id="1234" />
+      <edge source="essaludperu" target="stapiab" id="1235" />
+      <edge source="essaludperu" target="MartinVizcarraC" id="1236" />
+      <edge source="essaludperu" target="pcmperu" id="1237" />
+      <edge source="essaludperu" target="Minsa_Peru" id="1238" />
+      <edge source="essaludperu" target="victorzamora" id="1239" />
+      <edge source="sincerelycatish" target="sincerelycatish" id="1240" />
+      <edge source="nubemargarita" target="peru21noticias" id="1241" />
+      <edge source="nubemargarita" target="MartinVizcarraC" id="1242" />
+      <edge source="almaviejaxd" target="almaviejaxd" id="1243" />
+      <edge source="almaviejaxd" target="diariocorreo" id="1244" />
+      <edge source="almaviejaxd" target="Minsa_Peru" id="1245" />
+      <edge source="cesarbardales" target="cesarbardales" id="1246" />
+      <edge source="cesarbardales" target="presidenciaperu" id="1247" />
+      <edge source="cesarbardales" target="MartinVizcarraC" id="1248" />
+      <edge source="cesarbardales" target="realDonaldTrump" id="1249" />
+      <edge source="edgardust" target="edgardust" id="1250" />
+      <edge source="edgardust" target="LuzCayguaray" id="1251" />
+      <edge source="edgardust" target="PatyDonayre" id="1252" />
+      <edge source="edgardust" target="Shey2403" id="1253" />
+      <edge source="edgardust" target="perlaberrios" id="1254" />
+      <edge source="edgardust" target="minsa" id="1255" />
+      <edge source="edgardust" target="EsSaludPeru" id="1256" />
+      <edge source="edgardust" target="geovanniacate" id="1257" />
+      <edge source="edgardust" target="pcmperu" id="1258" />
+      <edge source="edgardust" target="VicAZeballos" id="1259" />
+      <edge source="edgardust" target="victorzamora" id="1260" />
+      <edge source="macaceresb" target="macaceresb" id="1261" />
+      <edge source="macaceresb" target="RadioNacionalFM" id="1262" />
+      <edge source="macaceresb" target="Agencia_Andina" id="1263" />
+      <edge source="macaceresb" target="canalN_" id="1264" />
+      <edge source="macaceresb" target="RPPNoticias" id="1265" />
+      <edge source="macaceresb" target="exitosape" id="1266" />
+      <edge source="macaceresb" target="noticias_tvperu" id="1267" />
+      <edge source="macaceresb" target="DiarioElPeruano" id="1268" />
+      <edge source="macaceresb" target="elcomercio_peru" id="1269" />
+      <edge source="macaceresb" target="Politica_ECpe" id="1270" />
+      <edge source="macaceresb" target="larepublica_pe" id="1271" />
+      <edge source="alfonso2791" target="alfonso2791" id="1272" />
+      <edge source="alfonso2791" target="atvpe" id="1273" />
+      <edge source="yimmybeltran" target="yimmybeltran" id="1274" />
+      <edge source="extru28" target="extru28" id="1275" />
+      <edge source="extru28" target="gabrielalpp" id="1276" />
+      <edge source="cynflawers1" target="MartinVizcarraC" id="1277" />
+      <edge source="cynflawers1" target="JulianaOxenford" id="1278" />
+      <edge source="chaparro_am" target="chaparro_am" id="1279" />
+      <edge source="danml6469" target="danml6469" id="1280" />
+      <edge source="danml6469" target="ExpresoPeru" id="1281" />
+      <edge source="danml6469" target="victorzamora" id="1282" />
+      <edge source="sunafilperu" target="PoliciaPeru" id="1283" />
+      <edge source="sunafilperu" target="BancodelaNacion" id="1284" />
+      <edge source="kemagrievas" target="kemagrievas" id="1285" />
+      <edge source="kemagrievas" target="MartinVizcarraC" id="1286" />
+      <edge source="kemagrievas" target="victorzamora" id="1287" />
+      <edge source="kemagrievas" target="FioreMolinelli" id="1288" />
+      <edge source="yoshi0800" target="yoshi0800" id="1289" />
+      <edge source="yoshi0800" target="exitosape" id="1290" />
+      <edge source="yoshi0800" target="Minsa_Peru" id="1291" />
+      <edge source="yoshi0800" target="EsSaludPeru" id="1292" />
+      <edge source="yoshi0800" target="MartinVizcarraC" id="1293" />
+      <edge source="yoshi0800" target="Defensoria_Peru" id="1294" />
+      <edge source="sanurfi" target="sanurfi" id="1295" />
+      <edge source="sanurfi" target="RPPNoticias" id="1296" />
+      <edge source="sanurfi" target="mabel_huertas" id="1297" />
+      <edge source="sanurfi" target="MilagrosLeivaG" id="1298" />
+      <edge source="sanurfi" target="rmapalacios" id="1299" />
+      <edge source="pymetecperu" target="pymetecperu" id="1300" />
+      <edge source="sostenible_pe" target="sostenible_pe" id="1301" />
+      <edge source="hilary_saldana" target="hilary_saldana" id="1302" />
+      <edge source="hilary_saldana" target="MimpPeru" id="1303" />
+      <edge source="hilary_saldana" target="GloriaMonteneg" id="1304" />
+      <edge source="hilary_saldana" target="pcmperu" id="1305" />
+      <edge source="hilary_saldana" target="Minsa_Peru" id="1306" />
+      <edge source="hilary_saldana" target="MininterPeru" id="1307" />
+      <edge source="hilary_saldana" target="fapperu" id="1308" />
+      <edge source="ydolemsc" target="ydolemsc" id="1309" />
+      <edge source="ydolemsc" target="EsSaludPeru" id="1310" />
+      <edge source="brzelada" target="MilagrosLeivaG" id="1311" />
+      <edge source="brzelada" target="KarinaNovoaL" id="1312" />
+      <edge source="brzelada" target="IDL_R" id="1313" />
+      <edge source="brzelada" target="willaxtv" id="1314" />
+      <edge source="brzelada" target="Cuarto_Poder" id="1315" />
+      <edge source="brzelada" target="Latina_Noticias" id="1316" />
+      <edge source="brzelada" target="SolCn" id="1317" />
+      <edge source="brzelada" target="malditaternura" id="1318" />
+      <edge source="lcbcasbo" target="lcbcasbo" id="1319" />
+      <edge source="majolariva" target="fernandomcloret" id="1320" />
+      <edge source="majolariva" target="BancadaAPP" id="1321" />
+      <edge source="gabycarrasco98" target="Minsa_Peru" id="1322" />
+      <edge source="gabycarrasco98" target="presidenciaperu" id="1323" />
+      <edge source="lector5599" target="lector5599" id="1324" />
+      <edge source="lector5599" target="SolCn" id="1325" />
+      <edge source="andyjefree" target="andyjefree" id="1326" />
+      <edge source="andyjefree" target="victorzamora" id="1327" />
+      <edge source="aruizdasilva" target="aruizdasilva" id="1328" />
+      <edge source="aruizdasilva" target="Defensoria_Peru" id="1329" />
+      <edge source="aruizdasilva" target="FiscaliaPeru" id="1330" />
+      <edge source="aruizdasilva" target="pcmperu" id="1331" />
+      <edge source="aruizdasilva" target="presidenciaperu" id="1332" />
+      <edge source="_reyles94" target="_reyles94" id="1333" />
+      <edge source="_reyles94" target="Anchebiondi" id="1334" />
+      <edge source="carlos__kun" target="carlos__kun" id="1335" />
+      <edge source="carlos__kun" target="Minsa_Peru" id="1336" />
+      <edge source="carlos__kun" target="victorzamora" id="1337" />
+      <edge source="erreleon" target="erreleon" id="1338" />
+      <edge source="erreleon" target="MDanielCarbajal" id="1339" />
+      <edge source="erreleon" target="elcomercio_peru" id="1340" />
+      <edge source="pilarva09318751" target="CMP_PERU" id="1341" />
+      <edge source="pilarva09318751" target="Minsa_Peru" id="1342" />
+      <edge source="pilarva09318751" target="victorzamora" id="1343" />
+      <edge source="pilarva09318751" target="MartinVizcarraC" id="1344" />
+      <edge source="pilarva09318751" target="MindefPeru" id="1345" />
+      <edge source="bhuacapu" target="MartinVizcarraC" id="1346" />
+      <edge source="bhuacapu" target="Minsa_Peru" id="1347" />
+      <edge source="jery_alvarez" target="jery_alvarez" id="1348" />
+      <edge source="jery_alvarez" target="CMP_PERU" id="1349" />
+      <edge source="telemacorimac" target="telemacorimac" id="1350" />
+      <edge source="j_riquelmem" target="j_riquelmem" id="1351" />
+      <edge source="cocoamado" target="ExpresoPeru" id="1352" />
+      <edge source="cocoamado" target="alvarosarco" id="1353" />
+      <edge source="cocoamado" target="Capital967" id="1354" />
+      <edge source="cocoamado" target="canalN_" id="1355" />
+      <edge source="cocoamado" target="diariocorreo" id="1356" />
+      <edge source="marco33445566" target="Minsa_Peru" id="1357" />
+      <edge source="marco33445566" target="Agencia_Andina" id="1358" />
+      <edge source="marco33445566" target="DiarioElPeruano" id="1359" />
+      <edge source="marco33445566" target="RadioNacionalFM" id="1360" />
+      <edge source="marco33445566" target="noticias_tvperu" id="1361" />
+      <edge source="rodnallersperu" target="VeroLinaresC" id="1362" />
+      <edge source="rodnallersperu" target="MartinVizcarraC" id="1363" />
+      <edge source="rodnallersperu" target="FioreMolinelli" id="1364" />
+      <edge source="rodnallersperu" target="victorzamora" id="1365" />
+      <edge source="rodnallersperu" target="JulianaOxenford" id="1366" />
+      <edge source="rodnallersperu" target="atvpe" id="1367" />
+      <edge source="rpizango" target="MartinVizcarraC" id="1368" />
+      <edge source="rpizango" target="FioreMolinelli" id="1369" />
+      <edge source="rpizango" target="victorzamora" id="1370" />
+      <edge source="abelgilvonio" target="abelgilvonio" id="1371" />
+      <edge source="nidiavilchez" target="nidiavilchez" id="1372" />
+      <edge source="nidiavilchez" target="canalN_" id="1373" />
+      <edge source="nidiavilchez" target="MimpPeru" id="1374" />
+      <edge source="nidiavilchez" target="Defensoria_Peru" id="1375" />
+      <edge source="nidiavilchez" target="Minsa_Peru" id="1376" />
+      <edge source="nidiavilchez" target="EsSaludPeru" id="1377" />
+      <edge source="nidiavilchez" target="MartinVizcarraC" id="1378" />
+      <edge source="fapperu" target="fapperu" id="1379" />
+      <edge source="fapperu" target="Minsa_Peru" id="1380" />
+      <edge source="hanobis" target="hanobis" id="1381" />
+      <edge source="hanobis" target="larepublica_pe" id="1382" />
+      <edge source="rubncoralcastro" target="JulianaOxenford" id="1383" />
+      <edge source="rubncoralcastro" target="noticiAmerica" id="1384" />
+      <edge source="rubncoralcastro" target="Latina_pe" id="1385" />
+      <edge source="rubncoralcastro" target="sigridbazan" id="1386" />
+      <edge source="rubncoralcastro" target="atvpe" id="1387" />
+      <edge source="rubncoralcastro" target="VicAZeballos" id="1388" />
+      <edge source="rubncoralcastro" target="Agencia_Andina" id="1389" />
+      <edge source="rubncoralcastro" target="MartinVizcarraC" id="1390" />
+      <edge source="rubncoralcastro" target="ToniAlvaL" id="1391" />
+      <edge source="rubncoralcastro" target="Minsa_Peru" id="1392" />
+      <edge source="rubncoralcastro" target="pcmperu" id="1393" />
+      <edge source="cmalcagmailcom1" target="cmalcagmailcom1" id="1394" />
+      <edge source="cmalcagmailcom1" target="diarioojo" id="1395" />
+      <edge source="cmalcagmailcom1" target="diariocorreo" id="1396" />
+      <edge source="mary186" target="mary186" id="1397" />
+      <edge source="peruenlanoticia" target="peruenlanoticia" id="1398" />
+      <edge source="peruenlanoticia" target="victorzamora" id="1399" />
+      <edge source="peruenlanoticia" target="exitosape" id="1400" />
+      <edge source="peruenlanoticia" target="ErnesBustamante" id="1401" />
+      <edge source="batidodeleche_" target="batidodeleche_" id="1402" />
+      <edge source="batidodeleche_" target="ContraloriaPeru" id="1403" />
+      <edge source="batidodeleche_" target="MartinVizcarraC" id="1404" />
+      <edge source="c_chavez_v" target="c_chavez_v" id="1405" />
+      <edge source="c_chavez_v" target="teozka" id="1406" />
+      <edge source="patricioy8" target="victorzamora" id="1407" />
+      <edge source="patricioy8" target="MartinVizcarraC" id="1408" />
+      <edge source="alvarado_debora" target="alvarado_debora" id="1409" />
+      <edge source="alvarado_debora" target="EFEnoticias" id="1410" />
+      <edge source="morevelar" target="morevelar" id="1411" />
+      <edge source="morevelar" target="rmapalacios" id="1412" />
+      <edge source="chitoakrata" target="chitoakrata" id="1413" />
+      <edge source="chitoakrata" target="IndiraHuilca" id="1414" />
+      <edge source="chitoakrata" target="DanielUrresti1" id="1415" />
+      <edge source="sandrocubas" target="PatyDonayre" id="1416" />
+      <edge source="sandrocubas" target="FioreMolinelli" id="1417" />
+      <edge source="jpascualsa" target="jpascualsa" id="1418" />
+      <edge source="jpascualsa" target="larepublica_pe" id="1419" />
+      <edge source="gitototito" target="victorzamora" id="1420" />
+      <edge source="gitototito" target="FioreMolinelli" id="1421" />
+      <edge source="gitototito" target="GoreLoretoOf" id="1422" />
+      <edge source="gitototito" target="ContraloriaPeru" id="1423" />
+      <edge source="gitototito" target="FiscaliaPeru" id="1424" />
+      <edge source="gitototito" target="congresoperu" id="1425" />
+      <edge source="gitototito" target="PoliciaPeru" id="1426" />
+      <edge source="gitototito" target="CCFFAA_PERU" id="1427" />
+      <edge source="gitototito" target="Minsa_Peru" id="1428" />
+      <edge source="gitototito" target="MartinVizcarraC" id="1429" />
+      <edge source="salva_oli" target="salva_oli" id="1430" />
+      <edge source="salva_oli" target="JBCPERU" id="1431" />
+      <edge source="radionacionalfm" target="RadioNacionalFM" id="1432" />
+      <edge source="radionacionalfm" target="PoliciaPeru" id="1433" />
+      <edge source="radionacionalfm" target="pcmperu" id="1434" />
+      <edge source="radionacionalfm" target="VicAZeballos" id="1435" />
+      <edge source="radionacionalfm" target="Minsa_Peru" id="1436" />
+      <edge source="fervidal31" target="fervidal31" id="1437" />
+      <edge source="fervidal31" target="EFEnoticias" id="1438" />
+      <edge source="chemo90327589" target="presidenciaperu" id="1439" />
+      <edge source="chemo90327589" target="MartinVizcarraC" id="1440" />
+      <edge source="calongo2020" target="calongo2020" id="1441" />
+      <edge source="calongo2020" target="peru21noticias" id="1442" />
+      <edge source="phantassma" target="phantassma" id="1443" />
+      <edge source="phantassma" target="noticiAmerica" id="1444" />
+      <edge source="alex_risicaro" target="alex_risicaro" id="1445" />
+      <edge source="alex_risicaro" target="RPPNoticias" id="1446" />
+      <edge source="alex_risicaro" target="peru21noticias" id="1447" />
+      <edge source="padi_ajms" target="padi_ajms" id="1448" />
+      <edge source="padi_ajms" target="Minsa_Peru" id="1449" />
+      <edge source="hermeto48" target="hermeto48" id="1450" />
+      <edge source="troncoso_leyla" target="troncoso_leyla" id="1451" />
+      <edge source="dracocomet" target="teozka" id="1452" />
+      <edge source="dracocomet" target="MartinVizcarraC" id="1453" />
+      <edge source="eliasgmeztuest1" target="presidenciaperu" id="1454" />
+      <edge source="eliasgmeztuest1" target="MartinVizcarraC" id="1455" />
+      <edge source="adeacogom" target="adeacogom" id="1456" />
+      <edge source="adeacogom" target="pcmperu" id="1457" />
+      <edge source="adeacogom" target="MartinVizcarraC" id="1458" />
+      <edge source="adeacogom" target="Minsa_Peru" id="1459" />
+      <edge source="cmp_peru" target="CMP_PERU" id="1460" />
+      <edge source="cmp_peru" target="EsSaludPeru" id="1461" />
+      <edge source="cmp_peru" target="Latina_pe" id="1462" />
+      <edge source="cmp_peru" target="DrPalaciosCeli" id="1463" />
+      <edge source="gransady16cm" target="TatianaAstengoB" id="1464" />
+      <edge source="gransady16cm" target="rmapalacios" id="1465" />
+      <edge source="gransady16cm" target="mabel_huertas" id="1466" />
+      <edge source="gransady16cm" target="malditaternura" id="1467" />
+      <edge source="patydonayre" target="PatyDonayre" id="1468" />
+      <edge source="patydonayre" target="minsa" id="1469" />
+      <edge source="patydonayre" target="MartinVizcarraC" id="1470" />
+      <edge source="patydonayre" target="FioreMolinelli" id="1471" />
+      <edge source="patydonayre" target="FiscaliaPeru" id="1472" />
+      <edge source="patydonayre" target="ContraloriaPeru" id="1473" />
+      <edge source="patydonayre" target="Minsa_Peru" id="1474" />
+      <edge source="beequeencoin" target="beequeencoin" id="1475" />
+      <edge source="borischicoma" target="borischicoma" id="1476" />
+      <edge source="borischicoma" target="Minsa_Peru" id="1477" />
+      <edge source="borischicoma" target="pcmperu" id="1478" />
+      <edge source="borischicoma" target="PanoramaPTV" id="1479" />
+      <edge source="charles_iqt" target="teozka" id="1480" />
+      <edge source="charles_iqt" target="Minsa_Peru" id="1481" />
+      <edge source="rubenrmanrique" target="rubenrmanrique" id="1482" />
+      <edge source="rubenrmanrique" target="MartinVizcarraC" id="1483" />
+      <edge source="rubenrmanrique" target="Minsa_Peru" id="1484" />
+      <edge source="rubenrmanrique" target="EsSaludPeru" id="1485" />
+      <edge source="iscotva" target="iscotva" id="1486" />
+      <edge source="iscotva" target="larepublica_pe" id="1487" />
+      <edge source="jimmybussol" target="jimmybussol" id="1488" />
+      <edge source="jimmybussol" target="Minsa_Peru" id="1489" />
+      <edge source="jimmybussol" target="delurens" id="1490" />
+      <edge source="jimmybussol" target="MartinVizcarraC" id="1491" />
+      <edge source="miguell83576985" target="miguell83576985" id="1492" />
+      <edge source="miguell83576985" target="peru21noticias" id="1493" />
+      <edge source="carlosa43171787" target="carlosa43171787" id="1494" />
+      <edge source="cristodelladron" target="Minsa_Peru" id="1495" />
+      <edge source="jmma1996" target="LuzCayguaray" id="1496" />
+      <edge source="jmma1996" target="fernandomcloret" id="1497" />
+      <edge source="jmma1996" target="geovanniacate" id="1498" />
+      <edge source="jmma1996" target="Minsa_Peru" id="1499" />
+      <edge source="jmma1996" target="rmapalacios" id="1500" />
+      <edge source="jmma1996" target="MartinVizcarraC" id="1501" />
+      <edge source="jmma1996" target="minsa" id="1502" />
+      <edge source="jmma1996" target="EsSaludPeru" id="1503" />
+      <edge source="maramego96" target="maramego96" id="1504" />
+      <edge source="maramego96" target="JulianaOxenford" id="1505" />
+      <edge source="maramego96" target="PatyDonayre" id="1506" />
+      <edge source="maramego96" target="fernandomcloret" id="1507" />
+      <edge source="maramego96" target="BancadaAPP" id="1508" />
+      <edge source="coral54406522" target="elcomercio_peru" id="1509" />
+      <edge source="coral54406522" target="atvmasnoticias" id="1510" />
+      <edge source="carlosc00268781" target="carlosc00268781" id="1511" />
+      <edge source="elsajaque4" target="malditaternura" id="1512" />
+      <edge source="elsajaque4" target="ExpresoPeru" id="1513" />
+      <edge source="elsajaque4" target="SINAMSSOP1" id="1514" />
+      <edge source="elsajaque4" target="ErnesBustamante" id="1515" />
+      <edge source="elsajaque4" target="pacobazan_" id="1516" />
+      <edge source="elsajaque4" target="alvarosarco" id="1517" />
+      <edge source="luzcayguaray" target="LuzCayguaray" id="1518" />
+      <edge source="luzcayguaray" target="Minsa_Peru" id="1519" />
+      <edge source="luzcayguaray" target="victorzamora" id="1520" />
+      <edge source="chachipaz" target="RPPNoticias" id="1521" />
+      <edge source="nellyangelica7" target="nellyangelica7" id="1522" />
+      <edge source="nellyangelica7" target="YouTube" id="1523" />
+      <edge source="liliana5500" target="liliana5500" id="1524" />
+      <edge source="liliana5500" target="PatyDonayre" id="1525" />
+      <edge source="liliana5500" target="FiscaliaPeru" id="1526" />
+      <edge source="liliana5500" target="GoreLoretoOf" id="1527" />
+      <edge source="liliana5500" target="MartinVizcarraC" id="1528" />
+      <edge source="liliana5500" target="Minsa_Peru" id="1529" />
+      <edge source="monicayaya" target="MartinVizcarraC" id="1530" />
+      <edge source="monicayaya" target="ucinoticias_pe" id="1531" />
+      <edge source="jharyjhary" target="jharyjhary" id="1532" />
+      <edge source="jharyjhary" target="PanamericanaTV" id="1533" />
+      <edge source="claraeospinag" target="Cuarto_Poder" id="1534" />
+      <edge source="claraeospinag" target="EsSaludPeru" id="1535" />
+      <edge source="hejabofe" target="hejabofe" id="1536" />
+      <edge source="williamvegalop1" target="williamvegalop1" id="1537" />
+      <edge source="williamvegalop1" target="blackdragon1802" id="1538" />
+      <edge source="williamvegalop1" target="rmapalacios" id="1539" />
+      <edge source="williamvegalop1" target="ToniAlvaL" id="1540" />
+      <edge source="williamvegalop1" target="peru21noticias" id="1541" />
+      <edge source="williamvegalop1" target="ExpresoPeru" id="1542" />
+      <edge source="williamvegalop1" target="MartinVizcarraC" id="1543" />
+      <edge source="williamvegalop1" target="Minsa_Peru" id="1544" />
+      <edge source="williamvegalop1" target="elcurul" id="1545" />
+      <edge source="el_portuga2" target="FiscaliaPeru" id="1546" />
+      <edge source="el_portuga2" target="victorzamora" id="1547" />
+      <edge source="el_portuga2" target="MartinVizcarraC" id="1548" />
+      <edge source="chrheaney" target="chrheaney" id="1549" />
+    </edges>
+  </graph>
+</gexf>

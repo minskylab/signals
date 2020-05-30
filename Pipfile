@@ -6,6 +6,11 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+twint = {git = "https://github.com/twintproject/twint.git"}
+environs = "*"
+numpy = "*"
+pandas = "*"
+networkx = "*"
 
 [requires]
 python_version = "3.8"
