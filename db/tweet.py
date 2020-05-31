@@ -1,14 +1,12 @@
 import sqlalchemy as sqa
-
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 from datetime import datetime
-import twint
 
-Base = declarative_base()
+from db import base
 
 
-class Tweet(Base):
+class Tweet(base.Base):
     __tablename__ = "tweets_table"
 
     id = sqa.Column(sqa.String, primary_key=True, nullable=False)
@@ -56,55 +54,3 @@ class Tweet(Base):
     @reply_to.setter
     def reply_to(self, value: [str]):
         self._reply_to = ",".join(value)
-
-
-def convert_tweet(t: twint.tweet.tweet) -> Tweet:
-    replies_to: [str] = []
-    if type(t.reply_to) is list:
-        for rep in t.reply_to:
-            if type(rep) is dict:
-                if "username" in rep:
-                    replies_to.append(rep["username"] or "")
-
-    created_at = datetime.utcfromtimestamp(int(t.datetime)/1000)
-
-    return Tweet(
-        id=str(t.id),
-        username=str(t.username),
-        conversation_id=str(t.conversation_id),
-        created_at=created_at,
-        timezone=t.timezone,
-        user_id=t.user_id,
-        tweet=t.tweet,
-        _mentions=t.mentions,
-        _hashtags=t.hashtags,
-        _cashtags=t.cashtags,
-        _reply_to=replies_to,
-        retweets_count=t.retweets_count,
-        replies_count=t.replies_count
-    )
-
-
-class DB:
-    def __init__(self, url_conn: str):
-        self.url_connection = url_conn
-
-        self.engine: sqa.engine.Engine = sqa.create_engine(self.url_connection)
-        Base.metadata.create_all(self.engine)
-
-        self.Session = sessionmaker(bind=self.engine)
-        self.session = self.Session()
-
-    def save_new_tweet(self, tweet: Tweet) -> bool:
-        try:
-            exists = self.session.query(Tweet).filter_by(
-                id=tweet.id).scalar() is not None
-            if exists:
-                return True
-            self.session.add(tweet)
-            self.session.commit()
-        except Exception as e:
-            print(e)
-            self.session.rollback()
-            return False
-        return True
