@@ -11,8 +11,7 @@ Returns:
 
 @dataclass
 class Config:
-    postgres_host: str = ""
-    postgres_password: str = ""
+    postgres_uri: str = ""
     jwt_secret: bytes = ""
 
 
@@ -20,8 +19,7 @@ def load_config() -> Config:
     env = environs.Env()
     env.read_env()
 
-    host = env.str("POSTGRES_HOST")
-    password = env.str("POSTGRES_PASSWORD")
+    uri = env.str("POSTGRES_URI")
     secret = env.str("JWT_SECRET")
 
-    return Config(host, password, secret)
+    return Config(uri, secret)

@@ -1,7 +1,7 @@
 from flask import Flask
 import flask_graphql
 import flask
-import schema
+from api import schema
 
 app = Flask("Signals")
 
