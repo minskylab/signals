@@ -16,7 +16,7 @@ class DB:
         self.session = self.Session()
 
     def last_tweet(self) -> tweet.Tweet:
-        self.session.query(tweet.Tweet)
+        return self.session.query(tweet.Tweet).order_by(tweet.Tweet.id.desc()).first()
 
     def save_new_tweet(self, t: tweet.Tweet) -> bool:
         try:

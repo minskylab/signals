@@ -9,8 +9,10 @@ def run_query(query: str, since: datetime = None, until: datetime = None, limit:
     c.Search = query
     c.Limit = limit if limit > 0 else None
     c.Store_object = True
-    c.Debug = True
+    # c.Debug = True
     # c.Hide_output = True
     twint.run.Search(c)
 
-    return twint.run.output.tweets_list
+    tweets = twint.run.output.tweets_list
+    twint.run.output.tweets_list = []
+    return tweets
