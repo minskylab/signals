@@ -16,10 +16,12 @@ class Tweet(base.Base):
     timezone = sqa.Column(sqa.Integer, nullable=False)
     user_id = sqa.Column(sqa.String, nullable=False)
     tweet = sqa.Column(sqa.Text, nullable=False)
+
     _mentions = sqa.Column(sqa.String, nullable=False, default="")
     _hashtags = sqa.Column(sqa.String, nullable=False, default="")
     _cashtags = sqa.Column(sqa.String, nullable=False, default="")
     _reply_to = sqa.Column(sqa.String, nullable=False, default="")
+
     retweets_count = sqa.Column(sqa.Integer)
     replies_count = sqa.Column(sqa.Integer)
 

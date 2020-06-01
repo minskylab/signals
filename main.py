@@ -4,36 +4,22 @@ import datetime
 import db
 from tqdm import tqdm
 import config
+import manager
+import asyncio
+import analytics
 
 if __name__ == "__main__":
     # api.app.run(debug=True)
     conf = config.load_config()
 
     db_instance = db.DB(conf.postgres_uri)
-    last = db_instance.last_tweet()
+    principal = manager.Extractor(db_instance, "peru")
+    # principal.launch()
 
-    since = last.created_at - \
-        datetime.timedelta(minutes=5, hours=5)  # UTC-5 -5m
-    since = since.replace(second=0, microsecond=0)
-    until = datetime.datetime.now().replace(second=0, microsecond=0)
+    now = datetime.datetime.now()
+    from_date = now - datetime.timedelta(hours=1)
 
-    print(f"since = {since}")
+    sample = analytics.QueryDescriptor(from_date=from_date, to_date=now)
 
-    max_tweets = 100
-
-    while not last.created_at < until:
-        tweets = agent.run_query(
-            "peru",
-            since=since,
-            # until=until,
-            limit=max_tweets)
-
-        print(f"total tweets: {len(tweets)}")
-
-        for tweet in tqdm(tweets):
-            db_instance.save_new_tweet(db.convert_tweet(tweet))
-
-        last = db_instance.last_tweet()
-        since = last.created_at - \
-            datetime.timedelta(minutes=5, hours=5)  # UTC-5 -5m
-        since = since.replace(second=0, microsecond=0)
+    tweets = analytics.execute_query(db_instance, sample)
+    print(len(tweets))
