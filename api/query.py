@@ -1,10 +1,10 @@
 import graphene as gn
-import entities
+from api import tweet
 
 
 class Query(gn.ObjectType):
     tweets = gn.Field(
-        gn.NonNull(gn.List(gn.NonNull(entities.tweet.Tweet))),
+        gn.NonNull(gn.List(gn.NonNull(tweet.Tweet))),
         first=gn.Int(default_value=20),
         offset=gn.Int(default_value=0),
         start_date=gn.DateTime(default_value="2020-05-01"),
