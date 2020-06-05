@@ -11,8 +11,8 @@ if __name__ == "__main__":
 
     controller = manager.Manager(db_instance)
     controller.register_new_extractor(peruvian_extractor)
-    controller.launch_extractors()
+    # controller.launch_extractors()
 
     app = api.craft_api(db_instance, conf)
 
-    app.run(debug=True)
+    app.run(debug=True, port=8080)

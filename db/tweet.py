@@ -1,9 +1,8 @@
 import sqlalchemy as sqa
-from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.orm import sessionmaker
-from datetime import datetime
-
 from db import base
+
+
+rows = {"_mentions": "mentions", "_hashtags": "hashtags", "_cashtags": "cashtags", "_reply_to": "reply_to"}
 
 
 class Tweet(base.Base):
