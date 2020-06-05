@@ -1,10 +1,6 @@
 from sources import agent
-import datetime
 import db
 from tqdm import tqdm
-import config
-import asyncio
-
 
 def run_light_recurrent_extractor(db_instance: db.DB, query: str, max_tweets: int = 100):
     while True:

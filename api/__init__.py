@@ -1,1 +1,1 @@
-from .api import app
+from .app import craft_api
