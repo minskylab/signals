@@ -10,4 +10,6 @@ RUN pip install -r /tmp/requirements.txt
 
 COPY . /tmp/myapp
 
-CMD python /tmp/myapp/main.py
+EXPOSE 8080
+
+ENTRYPOINT ["python", "/tmp/myapp/main.py"]
