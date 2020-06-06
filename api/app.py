@@ -45,7 +45,9 @@ def craft_api(db_instance: db.DB, conf: config.Config):
 
         tweets = analytics.run_query_to_df(db_instance, q)
 
-        data = BytesIO(str.encode(tweets.to_csv()))
+        data = BytesIO()
+
+        tweets.to_csv(data)
 
         if len(tweets) == 0:
             is_pandas = request.args.get("pandas", type=str)
