@@ -1,7 +1,11 @@
 import re
-from dataclasses import dataclass
 import datetime
+from dataclasses import dataclass
 from datetime import timedelta
+from dateutil import parser
+from typing import Optional, Dict
+from loguru import logger
+
 
 @dataclass
 class QueryFilter:
@@ -27,19 +31,84 @@ def get_recent_sample_query() -> Query:
     return Query(from_date, to_date)
 
 
+def extract_expression(statement: str, name: str) -> str:
+    expression: str = ""
+    for j in range(statement.index(name)+1, len(statement)):
+        c = statement[j]
+        if not c.isdigit():
+            if c not in "-T()":
+                break
+        expression += c
+    return expression
+
+
 def parse_statement_to_query(statement: str) -> Query:
-    valid = re.compile("(s|S)[0-9]{2}-[0-9]{2}-[0-9]{4}(u|U)[0-9]{2}-[0-9]{2}-[0-9]{4}")
-    if not valid.match(statement):
-        raise BaseException("please use a valid filename like S{date}U{date}.csv")
+    invalid_statement = BaseException("please use a valid statement like S{date}U{date} (TODO: to complete it)")
 
-    chunks = statement.lower().split("u")
-    from_str = chunks[0].replace("s", "")
-    to_str = chunks[1]
+    statement = statement.lower().strip()
+    statement = statement.replace("t", "T")
 
-    from_date = datetime.datetime.strptime(from_str, "%d-%m-%Y")
-    to_date = datetime.datetime.strptime(to_str, "%d-%m-%Y")
+    if len(statement) == 0:
+        raise invalid_statement
 
-    from_date = from_date.replace(microsecond=0)
-    to_date = to_date.replace( microsecond=0)
+    since: Optional[datetime.datetime] = None
+    until: Optional[datetime.datetime] = None
+
+    if "s" in statement:
+        expression = extract_expression(statement, "s")
+        logger.debug(expression)
+        since = parser.parse(expression)
+
+    if "u" in statement:
+        expression = extract_expression(statement, "u")
+        logger.debug(expression)
+        until = parser.parse(expression)
+
+    if since is not None and until is not None:
+        from_date = since.replace(microsecond=0)
+        to_date = until.replace(microsecond=0)
+
+        return Query(from_date, to_date)
+
+    # block-block-blockTblock:block:block
+    block_4: str = """(\d{1,4}|(\(\d{1,4}-\d{1,4}\)))"""
+    block_2: str = """(\d{1,2}|(\(\d{1,2}-\d{1,2}\)))"""
+
+    little_l = re.compile(block_4 + "-" + block_2 + "-" + block_4 + "T" + block_2 + ":" + block_2 + ":" + block_2)
+
+    logger.debug(statement)
+
+    if little_l.match(statement) is None:
+        raise invalid_statement
+
+    blocks = re.compile(block_4).findall(statement)
+
+    if len(blocks) == 0:
+        raise invalid_statement
+
+    blocks: [str] = [b[0] for b in blocks]  # first of first
+
+    logger.debug(blocks)
+
+    since_map: Dict[int, int] = {}
+    until_map = {}
+    for i, block in enumerate(blocks):
+        s_str: str = block
+        u_str: str = block
+
+        if "(" in block:
+            chunks = block.split("-")
+            logger.debug(chunks)
+            s_str = chunks[0].replace("(", "").strip()
+            u_str = chunks[1].replace(")", "").strip()
+
+        since_map[i] = int(s_str)
+        until_map[i] = int(u_str)
+
+    since = datetime.datetime(*list(since_map.values()))
+    until = datetime.datetime(*list(until_map.values()))
+
+    from_date = since.replace(microsecond=0)
+    to_date = until.replace( microsecond=0)
 
     return Query(from_date, to_date)

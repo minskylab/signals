@@ -29,6 +29,7 @@ nest-asyncio = "*"
 psycopg2-binary = "*"
 tqdm = "*"
 py-ulid = "*"
+loguru = "*"
 
 [requires]
 python_version = "3.8"

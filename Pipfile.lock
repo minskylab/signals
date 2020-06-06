@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "16fdf3142c483e43d69a118e90bd2f22a151915290e207ee436de544708607d7"
+            "sha256": "9085c33565e958a94dcce9174b2e40a8dfeac02dd0c9dab19fd95e749bdb0260"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -32,17 +32,17 @@
         },
         "boto3": {
             "hashes": [
-                "sha256:bcaa88b2f81b88741c47da52f3414c876236700441df87b6198f860e6a200d6f",
-                "sha256:e974e7a3bbdbd6a73ffc07bea5fa0c0744a5a8b87dcca94702597176e3de465e"
+                "sha256:5df1f3f84587b4d812f6f178031119b80920822b459bbb70ad49f431128655dc",
+                "sha256:d19fb5b7f27c29a7a036e36888e9584132e2f8edfa6ef906ea5a712e3e29962c"
             ],
-            "version": "==1.13.23"
+            "version": "==1.13.24"
         },
         "botocore": {
             "hashes": [
-                "sha256:5831068c9b49b4c91b0733e0ec784a7733d8732359d73c67a07a0b0868433cae",
-                "sha256:7778957bdc9a25dd33bb4383ebd6d45a8570a2cbff03d1edf430fdacec2b7437"
+                "sha256:17bc71415186efb86a25dd674f78064cdd85139485967d5a0741c7b83d62cf5b",
+                "sha256:e44b11b1c47c06b0f6524b0ff1fa1cae5ddea4eb06f359e4a9730e8e881b397a"
             ],
-            "version": "==1.16.23"
+            "version": "==1.16.24"
         },
         "certifi": {
             "hashes": [
@@ -227,6 +227,14 @@
                 "sha256:fccefc0d36a38c57b7bd233a9b485e2f1eb71903ca7ad7adacad6c28a56d62d2"
             ],
             "version": "==1.2.0"
+        },
+        "loguru": {
+            "hashes": [
+                "sha256:1e0e6ff59be5e22f863d909ca989e34bb14c21b374f6af45281e603d003dbb96",
+                "sha256:4688d9e1f31d70e1ec7ccce5305967bc28f377eb1048d009108c11faebe05bcf"
+            ],
+            "index": "pypi",
+            "version": "==0.5.0"
         },
         "markupsafe": {
             "hashes": [
@@ -588,7 +596,7 @@
         },
         "twint": {
             "git": "https://github.com/twintproject/twint.git",
-            "ref": "8fafa4a13bf3798fefd706a97ea5b8bb0ceb4cb3"
+            "ref": "69e91c861bf3b809aa43afb448c5111d03794d98"
         },
         "urllib3": {
             "hashes": [
@@ -612,7 +620,7 @@
                 "sha256:5b26757dc6f79a3b7dc9fab95359328d5747fcb2409d331ea66d0272b90ab2a0",
                 "sha256:8b995ffe925347a2138d7ac0fe77155e4311a0ea6d6da4f5128fe4b3cbe5ed71"
             ],
-            "markers": "platform_system == 'Darwin'",
+            "markers": "sys_platform == 'darwin'",
             "version": "==0.1.0"
         },
         "astroid": {
