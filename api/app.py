@@ -8,6 +8,7 @@ from io import BytesIO
 from flask import send_file
 from api import schema
 from loguru import logger
+from tempfile import SpooledTemporaryFile
 
 
 def craft_api(db_instance: db.DB, conf: config.Config):
@@ -45,7 +46,7 @@ def craft_api(db_instance: db.DB, conf: config.Config):
 
         tweets = analytics.run_query_to_df(db_instance, q)
 
-        data = BytesIO()
+        data = SpooledTemporaryFile(int(1e6), mode="rwb+")
 
         tweets.to_csv(data)
 
