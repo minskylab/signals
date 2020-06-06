@@ -1,6 +1,9 @@
 from sources import agent
 import db
 from tqdm import tqdm
+import time
+import random
+
 
 def run_light_recurrent_extractor(db_instance: db.DB, query: str, max_tweets: int = 100):
     while True:
@@ -9,3 +12,5 @@ def run_light_recurrent_extractor(db_instance: db.DB, query: str, max_tweets: in
 
         for tweet in tqdm(tweets):
             db_instance.save_new_tweet(db.convert_tweet(tweet))
+
+        time.sleep(random.random() * 2)
