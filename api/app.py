@@ -48,7 +48,8 @@ def craft_api(db_instance: db.DB, conf: config.Config):
         buffer = StringIO()
 
         tweets.to_csv(buffer)
-
+        buffer.seek(0)
+        
         if len(tweets) == 0:
             is_pandas = request.args.get("pandas", type=str)
             if is_pandas is None or is_pandas == "":
