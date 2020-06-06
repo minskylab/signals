@@ -24,6 +24,18 @@ class Query:
     to_date: datetime.datetime
     filter: QueryFilter = None
 
+    def apply_timezone(self, timezone: str):
+        if not timezone.lstrip('-+').isdigit():
+            return "invalid timezone", 500
+        td = datetime.timedelta(hours=int(timezone.lstrip('-+')))
+
+        if timezone.startswith("-"):
+            self.from_date += td
+            self.to_date += td
+        else:
+            self.from_date -= td
+            self.to_date -= td
+
 
 def get_recent_sample_query() -> Query:
     from_date = datetime.datetime.now() - timedelta(hours=1)
