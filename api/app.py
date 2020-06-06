@@ -4,11 +4,10 @@ import analytics
 import flask_graphql
 from flask import Flask
 from flask import request
-from io import BytesIO
+from io import StringIO
 from flask import send_file
 from api import schema
 from loguru import logger
-from tempfile import SpooledTemporaryFile
 
 
 def craft_api(db_instance: db.DB, conf: config.Config):
@@ -46,9 +45,9 @@ def craft_api(db_instance: db.DB, conf: config.Config):
 
         tweets = analytics.run_query_to_df(db_instance, q)
 
-        data = SpooledTemporaryFile(int(1e6), mode="rwb+")
+        buffer = StringIO()
 
-        tweets.to_csv(data)
+        tweets.to_csv(buffer)
 
         if len(tweets) == 0:
             is_pandas = request.args.get("pandas", type=str)
@@ -59,7 +58,7 @@ def craft_api(db_instance: db.DB, conf: config.Config):
             logger.debug(tweets.sample(3))
 
         return send_file(
-            data,
+            buffer,
             mimetype="text/csv",
             attachment_filename=f'{filename}.csv',
             as_attachment=True
