@@ -8,7 +8,6 @@ from io import BytesIO
 from flask import send_file
 from api import schema
 from loguru import logger
-import datetime
 
 
 def craft_api(db_instance: db.DB, conf: config.Config):
@@ -27,6 +26,15 @@ def craft_api(db_instance: db.DB, conf: config.Config):
 
     @app.route("/tweets/<string:filename>.csv")
     def get_csv(filename: str):
+        if conf.root_token != "":
+            token = request.args.get("token", type=str)
+            if token is None:
+                return "You need to pass a valid auth token", 401
+
+            logger.debug(token)
+            if token != conf.root_token: # TODO: Update to a dynamic token
+                return "Invalid auth token", 401
+
         q = db.parse_statement_to_query(filename)
 
         timezone = request.args.get("timezone", type=str)

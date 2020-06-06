@@ -13,6 +13,7 @@ Returns:
 class Config:
     postgres_uri: str = ""
     jwt_secret: bytes = ""
+    root_token: str = ""
 
 
 def load_config() -> Config:
@@ -21,5 +22,6 @@ def load_config() -> Config:
 
     uri = env.str("POSTGRES_URI")
     secret = env.str("JWT_SECRET")
+    root_token = env.str("ROOT_TOKEN")
 
-    return Config(uri, secret)
+    return Config(uri, secret, root_token)
