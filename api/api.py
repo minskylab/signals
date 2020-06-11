@@ -8,7 +8,8 @@ from tempfile import NamedTemporaryFile
 
 def dataframe_to_csv_file(df: DataFrame) -> NamedTemporaryFile:
     t_file = NamedTemporaryFile(mode="r+")
-    csv = df.to_csv()
+    csv = df.to_csv(chunksize=int(30e3))
+    # testing a <chuncked> exportation
     _ = t_file.write(csv)
     t_file.seek(0)
     return t_file

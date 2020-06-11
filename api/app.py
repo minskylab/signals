@@ -1,10 +1,8 @@
 import db
 import config
-import analytics
 import flask_graphql
 from flask import Flask
 from flask import request
-from io import StringIO
 from flask import send_file
 from api import schema
 from loguru import logger
